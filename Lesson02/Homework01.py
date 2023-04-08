@@ -6,15 +6,11 @@
 import random
 
 
-def Hex_transformation(num):
-    dict = {10: 'a', 11: 'b', 12: 'c', 13: 'd', 14: 'e', 15: 'f'}
+def Hex_transformation(num, mod=16):
     result = ''
     while num:
-        temp = num % 16
-        if 10 <= temp:
-            result = dict[temp] + result
-        else:
-            result = str(temp) + result
+        temp = num % mod if (num % mod) < 10 else chr(num % mod + 87)
+        result = str(temp) + result
         num //= 16
     return result
 

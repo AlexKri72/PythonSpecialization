@@ -1,0 +1,8182 @@
+{
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin": {
+    ".git": {
+      "size": 134112,
+      "file_or_dir": "directory"
+    },
+    ".idea": {
+      "size": 10919,
+      "file_or_dir": "directory"
+    },
+    "Lesson01": {
+      "size": 4316,
+      "file_or_dir": "directory"
+    },
+    "Lesson02": {
+      "size": 67281,
+      "file_or_dir": "directory"
+    },
+    "Lesson03": {
+      "size": 13406,
+      "file_or_dir": "directory"
+    },
+    "Lesson04": {
+      "size": 12730,
+      "file_or_dir": "directory"
+    },
+    "Lesson05": {
+      "size": 6869,
+      "file_or_dir": "directory"
+    },
+    "Lesson06": {
+      "size": 21956,
+      "file_or_dir": "directory"
+    },
+    "Lesson07": {
+      "size": 31056,
+      "file_or_dir": "directory"
+    },
+    "Lesson07Task07Documents": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Lesson07Task07Images": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Lesson07Task07Musics": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Lesson07Task07Videos": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Lesson08": {
+      "size": 13138,
+      "file_or_dir": "directory"
+    },
+    "venv": {
+      "size": 17818569,
+      "file_or_dir": "directory"
+    },
+    "main.py": {
+      "size": 544,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git": {
+    "hooks": {
+      "size": 23513,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 240,
+      "file_or_dir": "directory"
+    },
+    "logs": {
+      "size": 4298,
+      "file_or_dir": "directory"
+    },
+    "objects": {
+      "size": 97368,
+      "file_or_dir": "directory"
+    },
+    "refs": {
+      "size": 82,
+      "file_or_dir": "directory"
+    },
+    "COMMIT_EDITMSG": {
+      "size": 28,
+      "file_or_dir": "file"
+    },
+    "config": {
+      "size": 316,
+      "file_or_dir": "file"
+    },
+    "description": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "HEAD": {
+      "size": 23,
+      "file_or_dir": "file"
+    },
+    "index": {
+      "size": 8171,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\hooks": {
+    "applypatch-msg.sample": {
+      "size": 478,
+      "file_or_dir": "file"
+    },
+    "commit-msg.sample": {
+      "size": 896,
+      "file_or_dir": "file"
+    },
+    "fsmonitor-watchman.sample": {
+      "size": 4726,
+      "file_or_dir": "file"
+    },
+    "post-update.sample": {
+      "size": 189,
+      "file_or_dir": "file"
+    },
+    "pre-applypatch.sample": {
+      "size": 424,
+      "file_or_dir": "file"
+    },
+    "pre-commit.sample": {
+      "size": 1643,
+      "file_or_dir": "file"
+    },
+    "pre-merge-commit.sample": {
+      "size": 416,
+      "file_or_dir": "file"
+    },
+    "pre-push.sample": {
+      "size": 1374,
+      "file_or_dir": "file"
+    },
+    "pre-rebase.sample": {
+      "size": 4898,
+      "file_or_dir": "file"
+    },
+    "pre-receive.sample": {
+      "size": 544,
+      "file_or_dir": "file"
+    },
+    "prepare-commit-msg.sample": {
+      "size": 1492,
+      "file_or_dir": "file"
+    },
+    "push-to-checkout.sample": {
+      "size": 2783,
+      "file_or_dir": "file"
+    },
+    "update.sample": {
+      "size": 3650,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\info": {
+    "exclude": {
+      "size": 240,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\logs": {
+    "refs": {
+      "size": 2729,
+      "file_or_dir": "directory"
+    },
+    "HEAD": {
+      "size": 1569,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\logs\\refs": {
+    "heads": {
+      "size": 1569,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 1160,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\logs\\refs\\heads": {
+    "master": {
+      "size": 1569,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\logs\\refs\\remotes": {
+    "origin": {
+      "size": 1160,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\logs\\refs\\remotes\\origin": {
+    "master": {
+      "size": 1160,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects": {
+    "00": {
+      "size": 553,
+      "file_or_dir": "directory"
+    },
+    "04": {
+      "size": 78,
+      "file_or_dir": "directory"
+    },
+    "06": {
+      "size": 312,
+      "file_or_dir": "directory"
+    },
+    "08": {
+      "size": 244,
+      "file_or_dir": "directory"
+    },
+    "09": {
+      "size": 436,
+      "file_or_dir": "directory"
+    },
+    "0b": {
+      "size": 199,
+      "file_or_dir": "directory"
+    },
+    "0e": {
+      "size": 217,
+      "file_or_dir": "directory"
+    },
+    "10": {
+      "size": 1067,
+      "file_or_dir": "directory"
+    },
+    "13": {
+      "size": 837,
+      "file_or_dir": "directory"
+    },
+    "17": {
+      "size": 919,
+      "file_or_dir": "directory"
+    },
+    "1a": {
+      "size": 242,
+      "file_or_dir": "directory"
+    },
+    "1e": {
+      "size": 608,
+      "file_or_dir": "directory"
+    },
+    "26": {
+      "size": 794,
+      "file_or_dir": "directory"
+    },
+    "32": {
+      "size": 174,
+      "file_or_dir": "directory"
+    },
+    "33": {
+      "size": 421,
+      "file_or_dir": "directory"
+    },
+    "36": {
+      "size": 666,
+      "file_or_dir": "directory"
+    },
+    "3d": {
+      "size": 116,
+      "file_or_dir": "directory"
+    },
+    "3f": {
+      "size": 510,
+      "file_or_dir": "directory"
+    },
+    "40": {
+      "size": 323,
+      "file_or_dir": "directory"
+    },
+    "41": {
+      "size": 187,
+      "file_or_dir": "directory"
+    },
+    "42": {
+      "size": 247,
+      "file_or_dir": "directory"
+    },
+    "43": {
+      "size": 824,
+      "file_or_dir": "directory"
+    },
+    "46": {
+      "size": 78,
+      "file_or_dir": "directory"
+    },
+    "4e": {
+      "size": 543,
+      "file_or_dir": "directory"
+    },
+    "4f": {
+      "size": 624,
+      "file_or_dir": "directory"
+    },
+    "50": {
+      "size": 162,
+      "file_or_dir": "directory"
+    },
+    "53": {
+      "size": 1703,
+      "file_or_dir": "directory"
+    },
+    "55": {
+      "size": 920,
+      "file_or_dir": "directory"
+    },
+    "56": {
+      "size": 218,
+      "file_or_dir": "directory"
+    },
+    "58": {
+      "size": 485,
+      "file_or_dir": "directory"
+    },
+    "59": {
+      "size": 765,
+      "file_or_dir": "directory"
+    },
+    "5d": {
+      "size": 671,
+      "file_or_dir": "directory"
+    },
+    "5e": {
+      "size": 385,
+      "file_or_dir": "directory"
+    },
+    "60": {
+      "size": 364,
+      "file_or_dir": "directory"
+    },
+    "61": {
+      "size": 992,
+      "file_or_dir": "directory"
+    },
+    "65": {
+      "size": 186,
+      "file_or_dir": "directory"
+    },
+    "6b": {
+      "size": 191,
+      "file_or_dir": "directory"
+    },
+    "6d": {
+      "size": 187,
+      "file_or_dir": "directory"
+    },
+    "6e": {
+      "size": 103,
+      "file_or_dir": "directory"
+    },
+    "6f": {
+      "size": 1491,
+      "file_or_dir": "directory"
+    },
+    "71": {
+      "size": 741,
+      "file_or_dir": "directory"
+    },
+    "74": {
+      "size": 166,
+      "file_or_dir": "directory"
+    },
+    "75": {
+      "size": 22559,
+      "file_or_dir": "directory"
+    },
+    "78": {
+      "size": 1224,
+      "file_or_dir": "directory"
+    },
+    "7a": {
+      "size": 141,
+      "file_or_dir": "directory"
+    },
+    "82": {
+      "size": 66,
+      "file_or_dir": "directory"
+    },
+    "83": {
+      "size": 551,
+      "file_or_dir": "directory"
+    },
+    "84": {
+      "size": 408,
+      "file_or_dir": "directory"
+    },
+    "86": {
+      "size": 278,
+      "file_or_dir": "directory"
+    },
+    "8a": {
+      "size": 522,
+      "file_or_dir": "directory"
+    },
+    "8d": {
+      "size": 262,
+      "file_or_dir": "directory"
+    },
+    "8e": {
+      "size": 271,
+      "file_or_dir": "directory"
+    },
+    "93": {
+      "size": 434,
+      "file_or_dir": "directory"
+    },
+    "94": {
+      "size": 745,
+      "file_or_dir": "directory"
+    },
+    "96": {
+      "size": 1440,
+      "file_or_dir": "directory"
+    },
+    "97": {
+      "size": 66,
+      "file_or_dir": "directory"
+    },
+    "98": {
+      "size": 237,
+      "file_or_dir": "directory"
+    },
+    "9d": {
+      "size": 173,
+      "file_or_dir": "directory"
+    },
+    "a0": {
+      "size": 486,
+      "file_or_dir": "directory"
+    },
+    "a3": {
+      "size": 962,
+      "file_or_dir": "directory"
+    },
+    "a6": {
+      "size": 174,
+      "file_or_dir": "directory"
+    },
+    "ab": {
+      "size": 645,
+      "file_or_dir": "directory"
+    },
+    "ad": {
+      "size": 934,
+      "file_or_dir": "directory"
+    },
+    "b2": {
+      "size": 1868,
+      "file_or_dir": "directory"
+    },
+    "b4": {
+      "size": 790,
+      "file_or_dir": "directory"
+    },
+    "b5": {
+      "size": 1769,
+      "file_or_dir": "directory"
+    },
+    "b9": {
+      "size": 1046,
+      "file_or_dir": "directory"
+    },
+    "bc": {
+      "size": 874,
+      "file_or_dir": "directory"
+    },
+    "bd": {
+      "size": 1113,
+      "file_or_dir": "directory"
+    },
+    "c4": {
+      "size": 181,
+      "file_or_dir": "directory"
+    },
+    "c8": {
+      "size": 721,
+      "file_or_dir": "directory"
+    },
+    "ca": {
+      "size": 475,
+      "file_or_dir": "directory"
+    },
+    "d2": {
+      "size": 211,
+      "file_or_dir": "directory"
+    },
+    "d9": {
+      "size": 606,
+      "file_or_dir": "directory"
+    },
+    "dc": {
+      "size": 141,
+      "file_or_dir": "directory"
+    },
+    "e0": {
+      "size": 611,
+      "file_or_dir": "directory"
+    },
+    "e6": {
+      "size": 550,
+      "file_or_dir": "directory"
+    },
+    "e7": {
+      "size": 867,
+      "file_or_dir": "directory"
+    },
+    "e8": {
+      "size": 512,
+      "file_or_dir": "directory"
+    },
+    "e9": {
+      "size": 796,
+      "file_or_dir": "directory"
+    },
+    "ea": {
+      "size": 244,
+      "file_or_dir": "directory"
+    },
+    "eb": {
+      "size": 14402,
+      "file_or_dir": "directory"
+    },
+    "ed": {
+      "size": 191,
+      "file_or_dir": "directory"
+    },
+    "ee": {
+      "size": 245,
+      "file_or_dir": "directory"
+    },
+    "ef": {
+      "size": 497,
+      "file_or_dir": "directory"
+    },
+    "f1": {
+      "size": 543,
+      "file_or_dir": "directory"
+    },
+    "f9": {
+      "size": 14145,
+      "file_or_dir": "directory"
+    },
+    "fb": {
+      "size": 443,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "pack": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\00": {
+    "6a7bc303c23a15246d06d03cd297963ed99c34": {
+      "size": 553,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\04": {
+    "3801b61e9ccf9fa7a901c52bf43d6118929949": {
+      "size": 78,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\06": {
+    "7a59823a331069086516bf775cc04387e9fab9": {
+      "size": 312,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\08": {
+    "2c3aeeb358ef0885729db371f7e6058cb95802": {
+      "size": 244,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\09": {
+    "fa708330ac1d2deb166ea54c151f93f76d17b1": {
+      "size": 436,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\0b": {
+    "b356058616e218c7443ac0cf259a8f08ab372e": {
+      "size": 199,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\0e": {
+    "8df85ac929618a9ddc43ac84a6d4075e35a71f": {
+      "size": 217,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\10": {
+    "15a6220a111acaf15126555cebfa52c4116662": {
+      "size": 268,
+      "file_or_dir": "file"
+    },
+    "18561198cd5ec9fe9520eecde3af8ab2274f68": {
+      "size": 657,
+      "file_or_dir": "file"
+    },
+    "5ce2da2d6447d11dfe32bfb846c3d5b199fc99": {
+      "size": 142,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\13": {
+    "8337729c15eaef0d65cc5737ba9027ef68cc6a": {
+      "size": 837,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\17": {
+    "3ab0f368e59dae10fe1552bec4b42a1d8c80d0": {
+      "size": 284,
+      "file_or_dir": "file"
+    },
+    "69069500cf48de52f645d88e996e71f3c5c329": {
+      "size": 140,
+      "file_or_dir": "file"
+    },
+    "ccd28d52d6a3664652572b044c762cdf9810ca": {
+      "size": 495,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\1a": {
+    "5755b14e5ab71fa2116fc7dbb48213e4517a06": {
+      "size": 242,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\1e": {
+    "d5dda4af3356fded4bb1a06059a3fb882ccf20": {
+      "size": 313,
+      "file_or_dir": "file"
+    },
+    "f14162f06eeb89bdb66e6c55e3cc9d54019d43": {
+      "size": 295,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\26": {
+    "4a380ac1411965c09b853929619989e082880d": {
+      "size": 731,
+      "file_or_dir": "file"
+    },
+    "d33521af10bcc7fd8cea344038eaaeb78d0ef5": {
+      "size": 63,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\32": {
+    "3c7fef15faac0705c1de351581fafa867e9c25": {
+      "size": 174,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\33": {
+    "c917b528387fc6be28ba5a4948b74131ae0a5c": {
+      "size": 421,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\36": {
+    "9b8ad60a28ef8d14839f16f2fa95f04bfd31c3": {
+      "size": 666,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\3d": {
+    "08f652f4222fcbbea32a22acad9795e10ed034": {
+      "size": 116,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\3f": {
+    "bd3caebb549f1320af4957c530d380ebb56546": {
+      "size": 510,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\40": {
+    "2580ca340651dac7d7bab552ba336f7d61a436": {
+      "size": 323,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\41": {
+    "e893762b3278874379e3c74750286b262b8769": {
+      "size": 187,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\42": {
+    "3f34ebdfe992e4a50d4e22e17cb1e699c9ef97": {
+      "size": 247,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\43": {
+    "4f27a3dbb5c8a8e3c520e4910cdc4dda9c62e3": {
+      "size": 492,
+      "file_or_dir": "file"
+    },
+    "8321c816d93d8b13fb424617ba9fdfff1a0eba": {
+      "size": 332,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\46": {
+    "68e9456e6db05fc6caf86670ffb17af42e3001": {
+      "size": 78,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\4e": {
+    "59f4b62e2895db116ad3c3b0cb235764b021b5": {
+      "size": 543,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\4f": {
+    "b4b99068433e779cbaffc8c2d9747766acbf90": {
+      "size": 624,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\50": {
+    "dc29be882c244c5ea10333402da1f105e4e02b": {
+      "size": 162,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\53": {
+    "92ee998f87fc4cd14cfd4f35428a3d56870c96": {
+      "size": 366,
+      "file_or_dir": "file"
+    },
+    "d63bc062e2f12d14c3d022f0bb6c4e72055db3": {
+      "size": 568,
+      "file_or_dir": "file"
+    },
+    "e43db0f2bbaf1e60ac9c84af1b0ddf8d14bc26": {
+      "size": 769,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\55": {
+    "66b3347477b054115d7219b9d7df47c3d55a3a": {
+      "size": 430,
+      "file_or_dir": "file"
+    },
+    "96b44786f04e4810aefe9f8d712f08ed310f71": {
+      "size": 349,
+      "file_or_dir": "file"
+    },
+    "a6131ca65c8ca880bd64f5adf45f3b8aff217b": {
+      "size": 141,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\56": {
+    "613997cae4f050479ae59c28264369a1d3206b": {
+      "size": 218,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\58": {
+    "81e571b20d585cc5a978741d0d13d5b44bcb12": {
+      "size": 321,
+      "file_or_dir": "file"
+    },
+    "8b41f0af04d2d4e9ce3a9cd590869c3cf2f023": {
+      "size": 164,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\59": {
+    "1091607fd991ed18616bc99f92d6277513fbd6": {
+      "size": 765,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\5d": {
+    "b80b3578f9c2d63ccf21e6879a84b29d1d0273": {
+      "size": 671,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\5e": {
+    "305db52457fcf6bf4e4bf53aaf54341d3996ac": {
+      "size": 385,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\60": {
+    "27f81e2499c22b7008f619bcceff4157f19e24": {
+      "size": 364,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\61": {
+    "9273aa253c5cea669f1a3863611c6ac4cf3b2e": {
+      "size": 534,
+      "file_or_dir": "file"
+    },
+    "cf0d18bd129458e3b4fba5bfe40acd91eda741": {
+      "size": 458,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\65": {
+    "dead0487d2e14f62336f6f4621797d469c88a7": {
+      "size": 186,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\6b": {
+    "810ae45947918e12ce38f4a197d6846eaac9b0": {
+      "size": 191,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\6d": {
+    "c87608119a4e5e5beeb390d56635d2c97adfbe": {
+      "size": 187,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\6e": {
+    "7dca20e77e45cc120214b30135084fb91060b7": {
+      "size": 103,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\6f": {
+    "9a60e9e0fcfc9661fc5c88cf0cdc6d51424a0b": {
+      "size": 1491,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\71": {
+    "9438dfb3b73f47dc11453202017e01e2beba11": {
+      "size": 741,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\74": {
+    "8d7dc335b1614eee49d59f623b5b7176efbd95": {
+      "size": 166,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\75": {
+    "914870b8e37eafd6cd3b543a8c1b764e888985": {
+      "size": 22559,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\78": {
+    "a397f291877ede2fc85a6b7930855190d952d2": {
+      "size": 463,
+      "file_or_dir": "file"
+    },
+    "e966e57eef9a512995925347204e134bc914e5": {
+      "size": 761,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\7a": {
+    "0be380e5a26cc0940704fd76445b4c7478a691": {
+      "size": 141,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\82": {
+    "7ce8dd2b8466ea815755821cf631d8b9bed5c2": {
+      "size": 66,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\83": {
+    "f1c413b89b6aaaa6fc1f4b7fe2415d1942fbe3": {
+      "size": 551,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\84": {
+    "e105976abee1b5951c8ec72c48de40bd815173": {
+      "size": 408,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\86": {
+    "15b211944d3bad52f7676297fae7ca9cb6dc9e": {
+      "size": 278,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\8a": {
+    "2da169b084fab4f483eb70bac8212245b348f3": {
+      "size": 522,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\8d": {
+    "c8e0145de23aa5f835719b77931a56338e9eed": {
+      "size": 262,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\8e": {
+    "4aaf2ff1ab8f9de5ee73be338bbe665fdbe7a2": {
+      "size": 271,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\93": {
+    "01423e20475f08179c50b9151c564da1bbc5d7": {
+      "size": 434,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\94": {
+    "a25f7f4cb416c083d265558da75d457237d671": {
+      "size": 155,
+      "file_or_dir": "file"
+    },
+    "da63becee785069b0936c4c2c6f858726f3881": {
+      "size": 171,
+      "file_or_dir": "file"
+    },
+    "ff5d0df6534add5410ee3c42564073ba598a7d": {
+      "size": 419,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\96": {
+    "b857727898edf1d949241b0cecbbccb0748bfd": {
+      "size": 1440,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\97": {
+    "824ec9b0149e48c91dce4fee530335b327c686": {
+      "size": 66,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\98": {
+    "e6da5050f6994d8a26bf8d8c090695ed0b0607": {
+      "size": 237,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\9d": {
+    "91ebdb614f4274a9092b1020a498588b2e8779": {
+      "size": 173,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\a0": {
+    "97c1b868761f7cd19338531d369d29120f5e02": {
+      "size": 486,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\a3": {
+    "63ef4ed1c9a5e09be250c10ff9a8dfdf2b1ace": {
+      "size": 433,
+      "file_or_dir": "file"
+    },
+    "dbed92d5794f41f650d79e73b675e933d6c20c": {
+      "size": 529,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\a6": {
+    "85a852ead3de7318323423da32afde7b891e6c": {
+      "size": 174,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ab": {
+    "67710a835631b187e7b80dd16e9fa69d9ee674": {
+      "size": 645,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ad": {
+    "ce3a5840677af8e629ce8744f4c2dd13a07607": {
+      "size": 934,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\b2": {
+    "53f643867f2dda2943e1fd9773f5ff76397a7e": {
+      "size": 1868,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\b4": {
+    "70ccfbc15bee37c1f949402377b3c810d45942": {
+      "size": 173,
+      "file_or_dir": "file"
+    },
+    "f735dc6d38de2e6b07f245af81b66092ff6405": {
+      "size": 617,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\b5": {
+    "675938e1d92dd9ae1c10d1d242380fd4fa1932": {
+      "size": 1235,
+      "file_or_dir": "file"
+    },
+    "c4c146ed54356e71f9ad539c8ccbdb4531e270": {
+      "size": 534,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\b9": {
+    "db9282e4dc14baf9592e7f734bcdfe5784c63e": {
+      "size": 271,
+      "file_or_dir": "file"
+    },
+    "eb1e294e485a0a42a3a283bddbfc651aa7556a": {
+      "size": 374,
+      "file_or_dir": "file"
+    },
+    "f8575004bd1f554d5b944ecfdfd8fe0dab7e4f": {
+      "size": 401,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\bc": {
+    "ba0765b97a0cca3b5e799aa71bc5add0043fdb": {
+      "size": 874,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\bd": {
+    "755b798385ce77515b6ca906420572177f6b77": {
+      "size": 1113,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\c4": {
+    "f1f0f4721bafe8b6f33ee6b7594ab09b91e070": {
+      "size": 181,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\c8": {
+    "f3384dd19c81a0a3017b3305d658fa0604de03": {
+      "size": 108,
+      "file_or_dir": "file"
+    },
+    "f7d4c2b611a56bad63ec76bcd595183b098b9e": {
+      "size": 613,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ca": {
+    "d8a2a56c6c006df5aa0936d3018ab7e2c58aec": {
+      "size": 475,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\d2": {
+    "ef66f9bb13cacd8af8cf60c13ac9dce905fc9d": {
+      "size": 211,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\d9": {
+    "9e6ad308e7d08b7c9a3939047ebd1bba830e1a": {
+      "size": 606,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\dc": {
+    "6b3107f65fa2fa06c43171e3a487485f51183f": {
+      "size": 141,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\e0": {
+    "b3ec1d3f24a3f1bb8e7d7cca2f0abd636bb045": {
+      "size": 611,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\e6": {
+    "32468dedb59e8da0a9aa4e0317bcf65c5886f4": {
+      "size": 535,
+      "file_or_dir": "file"
+    },
+    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+      "size": 15,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\e7": {
+    "cff277c25be007a7b57a2ab4051c7b2337bb72": {
+      "size": 867,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\e8": {
+    "a6c9366a8bf7f1e7691697d8d636e0cf01ff3d": {
+      "size": 512,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\e9": {
+    "0b94899fefc9a0e6a34567d542f17c2f2733e1": {
+      "size": 796,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ea": {
+    "9fb3d43a3f7929d4b737130aaa0820e847007a": {
+      "size": 244,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\eb": {
+    "23ec0fdd95ea1d66db88d2879479d8b8510c4c": {
+      "size": 14402,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ed": {
+    "d8ecba6dc8980650d11562c529fabee7f9dbfa": {
+      "size": 191,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ee": {
+    "8d18bcf854d122bb596d1b9034a23621bc9f57": {
+      "size": 245,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\ef": {
+    "655d6bc2d8d2f6f732724e1e0616958953c065": {
+      "size": 191,
+      "file_or_dir": "file"
+    },
+    "c23daf1dd204d1c4f0bdce588a5755140e3d2d": {
+      "size": 306,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\f1": {
+    "35b92bdb3960960593dfc04152b3fe63f9eb88": {
+      "size": 543,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\f9": {
+    "0591c58d66df2d3e47da366e9ca046792f5001": {
+      "size": 14145,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\fb": {
+    "6108519367ff0b90e7300503b8b4fd5759e3ca": {
+      "size": 443,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\info": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\objects\\pack": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\refs": {
+    "heads": {
+      "size": 41,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 41,
+      "file_or_dir": "directory"
+    },
+    "tags": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\refs\\heads": {
+    "master": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\refs\\remotes": {
+    "origin": {
+      "size": 41,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\refs\\remotes\\origin": {
+    "master": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.git\\refs\\tags": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.idea": {
+    "inspectionProfiles": {
+      "size": 174,
+      "file_or_dir": "directory"
+    },
+    ".gitignore": {
+      "size": 50,
+      "file_or_dir": "file"
+    },
+    "misc.xml": {
+      "size": 212,
+      "file_or_dir": "file"
+    },
+    "modules.xml": {
+      "size": 299,
+      "file_or_dir": "file"
+    },
+    "PythonSpecializatoin.iml": {
+      "size": 418,
+      "file_or_dir": "file"
+    },
+    "vcs.xml": {
+      "size": 185,
+      "file_or_dir": "file"
+    },
+    "workspace.xml": {
+      "size": 9581,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\.idea\\inspectionProfiles": {
+    "profiles_settings.xml": {
+      "size": 174,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson01": {
+    "Task01.py": {
+      "size": 1881,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 1583,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 852,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson02": {
+    "Homework01.py": {
+      "size": 851,
+      "file_or_dir": "file"
+    },
+    "Homework02.py": {
+      "size": 1375,
+      "file_or_dir": "file"
+    },
+    "img.png": {
+      "size": 24625,
+      "file_or_dir": "file"
+    },
+    "img_1.png": {
+      "size": 15604,
+      "file_or_dir": "file"
+    },
+    "img_2.png": {
+      "size": 16022,
+      "file_or_dir": "file"
+    },
+    "Readme.md": {
+      "size": 105,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 746,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 1166,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 1350,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 716,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 822,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 3899,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson03": {
+    "Homework01.py": {
+      "size": 379,
+      "file_or_dir": "file"
+    },
+    "Homework02.py": {
+      "size": 4049,
+      "file_or_dir": "file"
+    },
+    "Homework03.py": {
+      "size": 1606,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 808,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 801,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 563,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 295,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 500,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 919,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 1053,
+      "file_or_dir": "file"
+    },
+    "Task08.py": {
+      "size": 2433,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson04": {
+    "Homework01.py": {
+      "size": 574,
+      "file_or_dir": "file"
+    },
+    "Homework02.py": {
+      "size": 997,
+      "file_or_dir": "file"
+    },
+    "Homework03.py": {
+      "size": 3825,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 1164,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 805,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 719,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 768,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 918,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 788,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 1105,
+      "file_or_dir": "file"
+    },
+    "Task08.py": {
+      "size": 1067,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson05": {
+    "Homework01.py": {
+      "size": 891,
+      "file_or_dir": "file"
+    },
+    "Homework02.py": {
+      "size": 574,
+      "file_or_dir": "file"
+    },
+    "Homework03.py": {
+      "size": 517,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 698,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 410,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 500,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 322,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 991,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 880,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 1086,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson06": {
+    "__pycache__": {
+      "size": 6138,
+      "file_or_dir": "directory"
+    },
+    "Homework01.py": {
+      "size": 1280,
+      "file_or_dir": "file"
+    },
+    "Homework01_main.py": {
+      "size": 230,
+      "file_or_dir": "file"
+    },
+    "Homework02.py": {
+      "size": 1571,
+      "file_or_dir": "file"
+    },
+    "Homework03.py": {
+      "size": 1212,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 434,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 1632,
+      "file_or_dir": "file"
+    },
+    "Task02_main.py": {
+      "size": 262,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 1326,
+      "file_or_dir": "file"
+    },
+    "Task03_main.py": {
+      "size": 108,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 853,
+      "file_or_dir": "file"
+    },
+    "Task04_main.py": {
+      "size": 304,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 1526,
+      "file_or_dir": "file"
+    },
+    "Task05_main.py": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 2474,
+      "file_or_dir": "file"
+    },
+    "Task06_main.py": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 1468,
+      "file_or_dir": "file"
+    },
+    "Task07_main.py": {
+      "size": 226,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 766,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson06\\__pycache__": {
+    "Task03.cpython-310.pyc": {
+      "size": 857,
+      "file_or_dir": "file"
+    },
+    "Task04.cpython-310.pyc": {
+      "size": 667,
+      "file_or_dir": "file"
+    },
+    "Task05.cpython-310.pyc": {
+      "size": 1337,
+      "file_or_dir": "file"
+    },
+    "Task06.cpython-310.pyc": {
+      "size": 2270,
+      "file_or_dir": "file"
+    },
+    "Task07.cpython-310.pyc": {
+      "size": 1007,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07": {
+    "Task06": {
+      "size": 16613,
+      "file_or_dir": "directory"
+    },
+    "Task07": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 1634,
+      "file_or_dir": "directory"
+    },
+    "Homework01.py": {
+      "size": 2840,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 861,
+      "file_or_dir": "file"
+    },
+    "Task01.txt": {
+      "size": 77,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 1022,
+      "file_or_dir": "file"
+    },
+    "Task02.txt": {
+      "size": 59,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 1916,
+      "file_or_dir": "file"
+    },
+    "Task03.txt": {
+      "size": 124,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 1641,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 965,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 993,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 1953,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 358,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task06": {
+    "7183G_NEW_001.txt": {
+      "size": 3256,
+      "file_or_dir": "file"
+    },
+    "AKdkA_NEW_002.txt": {
+      "size": 2418,
+      "file_or_dir": "file"
+    },
+    "IotX6NEycRt7Men58dF.txt": {
+      "size": 3367,
+      "file_or_dir": "file"
+    },
+    "MeTWM_NEW_002.txt": {
+      "size": 1674,
+      "file_or_dir": "file"
+    },
+    "X14dO3nSe6.txt": {
+      "size": 3376,
+      "file_or_dir": "file"
+    },
+    "Xgozr_NEW_001.txt": {
+      "size": 2522,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task07": {
+    "Documents": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Images": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Musics": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Videos": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task07\\Documents": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task07\\Images": {
+    "5.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "6.jpeg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "7.bmp": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task07\\Musics": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\Task07\\Videos": {
+    "1.mov": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "2.mp4": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "3.mkv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "4.avi": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07\\__pycache__": {
+    "Task04.cpython-310.pyc": {
+      "size": 1109,
+      "file_or_dir": "file"
+    },
+    "Task05.cpython-310.pyc": {
+      "size": 525,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07Task07Documents": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07Task07Images": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07Task07Musics": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson07Task07Videos": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\Lesson08": {
+    "direct_info.csv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "direct_info.json": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "direct_info.pickle": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "Homework01.py": {
+      "size": 3017,
+      "file_or_dir": "file"
+    },
+    "Task01.json": {
+      "size": 183,
+      "file_or_dir": "file"
+    },
+    "Task01.pickle": {
+      "size": 155,
+      "file_or_dir": "file"
+    },
+    "Task01.py": {
+      "size": 1058,
+      "file_or_dir": "file"
+    },
+    "Task02.json": {
+      "size": 88,
+      "file_or_dir": "file"
+    },
+    "Task02.pickle": {
+      "size": 65,
+      "file_or_dir": "file"
+    },
+    "Task02.py": {
+      "size": 2067,
+      "file_or_dir": "file"
+    },
+    "Task03.csv": {
+      "size": 51,
+      "file_or_dir": "file"
+    },
+    "Task03.py": {
+      "size": 977,
+      "file_or_dir": "file"
+    },
+    "Task04.json": {
+      "size": 401,
+      "file_or_dir": "file"
+    },
+    "Task04.pickle": {
+      "size": 173,
+      "file_or_dir": "file"
+    },
+    "Task04.py": {
+      "size": 1718,
+      "file_or_dir": "file"
+    },
+    "Task05.py": {
+      "size": 835,
+      "file_or_dir": "file"
+    },
+    "Task06.csv": {
+      "size": 144,
+      "file_or_dir": "file"
+    },
+    "Task06.py": {
+      "size": 1215,
+      "file_or_dir": "file"
+    },
+    "Task07.py": {
+      "size": 991,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv": {
+    "Include": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "Lib": {
+      "size": 16303707,
+      "file_or_dir": "directory"
+    },
+    "Scripts": {
+      "size": 1514577,
+      "file_or_dir": "directory"
+    },
+    ".gitignore": {
+      "size": 42,
+      "file_or_dir": "file"
+    },
+    "pyvenv.cfg": {
+      "size": 243,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Include": {},
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib": {
+    "site-packages": {
+      "size": 16303707,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages": {
+    "autopep8-2.0.2.dist-info": {
+      "size": 21066,
+      "file_or_dir": "directory"
+    },
+    "pip": {
+      "size": 11796136,
+      "file_or_dir": "directory"
+    },
+    "pip-23.1.dist-info": {
+      "size": 92426,
+      "file_or_dir": "directory"
+    },
+    "pkg_resources": {
+      "size": 1001979,
+      "file_or_dir": "directory"
+    },
+    "pycodestyle-2.10.0.dist-info": {
+      "size": 33828,
+      "file_or_dir": "directory"
+    },
+    "setuptools": {
+      "size": 2701145,
+      "file_or_dir": "directory"
+    },
+    "setuptools-67.5.1.dist-info": {
+      "size": 44595,
+      "file_or_dir": "directory"
+    },
+    "tomli": {
+      "size": 46838,
+      "file_or_dir": "directory"
+    },
+    "tomli-2.0.1.dist-info": {
+      "size": 10945,
+      "file_or_dir": "directory"
+    },
+    "wheel": {
+      "size": 95910,
+      "file_or_dir": "directory"
+    },
+    "wheel-0.38.4.dist-info": {
+      "size": 6262,
+      "file_or_dir": "directory"
+    },
+    "_distutils_hack": {
+      "size": 13753,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 175017,
+      "file_or_dir": "directory"
+    },
+    "autopep8.py": {
+      "size": 155555,
+      "file_or_dir": "file"
+    },
+    "distutils-precedence.pth": {
+      "size": 151,
+      "file_or_dir": "file"
+    },
+    "pycodestyle.py": {
+      "size": 102313,
+      "file_or_dir": "file"
+    },
+    "setuptools-67.5.1.virtualenv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "wheel-0.38.4.virtualenv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "_virtualenv.pth": {
+      "size": 18,
+      "file_or_dir": "file"
+    },
+    "_virtualenv.py": {
+      "size": 5770,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\autopep8-2.0.2.dist-info": {
+    "AUTHORS.rst": {
+      "size": 2003,
+      "file_or_dir": "file"
+    },
+    "entry_points.txt": {
+      "size": 43,
+      "file_or_dir": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "file_or_dir": "file"
+    },
+    "LICENSE": {
+      "size": 1181,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 16753,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 963,
+      "file_or_dir": "file"
+    },
+    "REQUESTED": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "top_level.txt": {
+      "size": 9,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 110,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip": {
+    "_internal": {
+      "size": 1915172,
+      "file_or_dir": "directory"
+    },
+    "_vendor": {
+      "size": 9874842,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 2839,
+      "file_or_dir": "directory"
+    },
+    "py.typed": {
+      "size": 286,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 355,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 1198,
+      "file_or_dir": "file"
+    },
+    "__pip-runner__.py": {
+      "size": 1444,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal": {
+    "cli": {
+      "size": 160255,
+      "file_or_dir": "directory"
+    },
+    "commands": {
+      "size": 212677,
+      "file_or_dir": "directory"
+    },
+    "distributions": {
+      "size": 21022,
+      "file_or_dir": "directory"
+    },
+    "index": {
+      "size": 113038,
+      "file_or_dir": "directory"
+    },
+    "locations": {
+      "size": 55702,
+      "file_or_dir": "directory"
+    },
+    "metadata": {
+      "size": 122944,
+      "file_or_dir": "directory"
+    },
+    "models": {
+      "size": 94083,
+      "file_or_dir": "directory"
+    },
+    "network": {
+      "size": 108111,
+      "file_or_dir": "directory"
+    },
+    "operations": {
+      "size": 150310,
+      "file_or_dir": "directory"
+    },
+    "req": {
+      "size": 172462,
+      "file_or_dir": "directory"
+    },
+    "resolution": {
+      "size": 204831,
+      "file_or_dir": "directory"
+    },
+    "utils": {
+      "size": 225663,
+      "file_or_dir": "directory"
+    },
+    "vcs": {
+      "size": 113178,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 75332,
+      "file_or_dir": "directory"
+    },
+    "build_env.py": {
+      "size": 10243,
+      "file_or_dir": "file"
+    },
+    "cache.py": {
+      "size": 9661,
+      "file_or_dir": "file"
+    },
+    "configuration.py": {
+      "size": 13836,
+      "file_or_dir": "file"
+    },
+    "exceptions.py": {
+      "size": 23741,
+      "file_or_dir": "file"
+    },
+    "main.py": {
+      "size": 340,
+      "file_or_dir": "file"
+    },
+    "pyproject.py": {
+      "size": 7161,
+      "file_or_dir": "file"
+    },
+    "self_outdated_check.py": {
+      "size": 8167,
+      "file_or_dir": "file"
+    },
+    "wheel_builder.py": {
+      "size": 11842,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 573,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\cli": {
+    "__pycache__": {
+      "size": 71310,
+      "file_or_dir": "directory"
+    },
+    "autocompletion.py": {
+      "size": 6676,
+      "file_or_dir": "file"
+    },
+    "base_command.py": {
+      "size": 8176,
+      "file_or_dir": "file"
+    },
+    "cmdoptions.py": {
+      "size": 30030,
+      "file_or_dir": "file"
+    },
+    "command_context.py": {
+      "size": 774,
+      "file_or_dir": "file"
+    },
+    "main.py": {
+      "size": 2472,
+      "file_or_dir": "file"
+    },
+    "main_parser.py": {
+      "size": 4338,
+      "file_or_dir": "file"
+    },
+    "parser.py": {
+      "size": 10817,
+      "file_or_dir": "file"
+    },
+    "progress_bars.py": {
+      "size": 1968,
+      "file_or_dir": "file"
+    },
+    "req_command.py": {
+      "size": 18328,
+      "file_or_dir": "file"
+    },
+    "spinners.py": {
+      "size": 5118,
+      "file_or_dir": "file"
+    },
+    "status_codes.py": {
+      "size": 116,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 132,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__": {
+    "autocompletion.cpython-310.pyc": {
+      "size": 5301,
+      "file_or_dir": "file"
+    },
+    "base_command.cpython-310.pyc": {
+      "size": 6327,
+      "file_or_dir": "file"
+    },
+    "cmdoptions.cpython-310.pyc": {
+      "size": 23459,
+      "file_or_dir": "file"
+    },
+    "command_context.cpython-310.pyc": {
+      "size": 1308,
+      "file_or_dir": "file"
+    },
+    "main.cpython-310.pyc": {
+      "size": 1366,
+      "file_or_dir": "file"
+    },
+    "main_parser.cpython-310.pyc": {
+      "size": 2991,
+      "file_or_dir": "file"
+    },
+    "parser.cpython-310.pyc": {
+      "size": 9950,
+      "file_or_dir": "file"
+    },
+    "progress_bars.cpython-310.pyc": {
+      "size": 1892,
+      "file_or_dir": "file"
+    },
+    "req_command.cpython-310.pyc": {
+      "size": 13143,
+      "file_or_dir": "file"
+    },
+    "spinners.cpython-310.pyc": {
+      "size": 4958,
+      "file_or_dir": "file"
+    },
+    "status_codes.cpython-310.pyc": {
+      "size": 347,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 268,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\commands": {
+    "__pycache__": {
+      "size": 96655,
+      "file_or_dir": "directory"
+    },
+    "cache.py": {
+      "size": 7581,
+      "file_or_dir": "file"
+    },
+    "check.py": {
+      "size": 1684,
+      "file_or_dir": "file"
+    },
+    "completion.py": {
+      "size": 4129,
+      "file_or_dir": "file"
+    },
+    "configuration.py": {
+      "size": 9815,
+      "file_or_dir": "file"
+    },
+    "debug.py": {
+      "size": 6591,
+      "file_or_dir": "file"
+    },
+    "download.py": {
+      "size": 5182,
+      "file_or_dir": "file"
+    },
+    "freeze.py": {
+      "size": 2951,
+      "file_or_dir": "file"
+    },
+    "hash.py": {
+      "size": 1703,
+      "file_or_dir": "file"
+    },
+    "help.py": {
+      "size": 1132,
+      "file_or_dir": "file"
+    },
+    "index.py": {
+      "size": 4793,
+      "file_or_dir": "file"
+    },
+    "inspect.py": {
+      "size": 3188,
+      "file_or_dir": "file"
+    },
+    "install.py": {
+      "size": 28722,
+      "file_or_dir": "file"
+    },
+    "list.py": {
+      "size": 12343,
+      "file_or_dir": "file"
+    },
+    "search.py": {
+      "size": 5697,
+      "file_or_dir": "file"
+    },
+    "show.py": {
+      "size": 6419,
+      "file_or_dir": "file"
+    },
+    "uninstall.py": {
+      "size": 3886,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 6324,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 3882,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__": {
+    "cache.cpython-310.pyc": {
+      "size": 6230,
+      "file_or_dir": "file"
+    },
+    "check.cpython-310.pyc": {
+      "size": 1565,
+      "file_or_dir": "file"
+    },
+    "completion.cpython-310.pyc": {
+      "size": 4156,
+      "file_or_dir": "file"
+    },
+    "configuration.cpython-310.pyc": {
+      "size": 8934,
+      "file_or_dir": "file"
+    },
+    "debug.cpython-310.pyc": {
+      "size": 6675,
+      "file_or_dir": "file"
+    },
+    "download.cpython-310.pyc": {
+      "size": 4142,
+      "file_or_dir": "file"
+    },
+    "freeze.cpython-310.pyc": {
+      "size": 2630,
+      "file_or_dir": "file"
+    },
+    "hash.cpython-310.pyc": {
+      "size": 2144,
+      "file_or_dir": "file"
+    },
+    "help.cpython-310.pyc": {
+      "size": 1305,
+      "file_or_dir": "file"
+    },
+    "index.cpython-310.pyc": {
+      "size": 4582,
+      "file_or_dir": "file"
+    },
+    "inspect.cpython-310.pyc": {
+      "size": 2965,
+      "file_or_dir": "file"
+    },
+    "install.cpython-310.pyc": {
+      "size": 17712,
+      "file_or_dir": "file"
+    },
+    "list.cpython-310.pyc": {
+      "size": 10292,
+      "file_or_dir": "file"
+    },
+    "search.cpython-310.pyc": {
+      "size": 5358,
+      "file_or_dir": "file"
+    },
+    "show.cpython-310.pyc": {
+      "size": 6519,
+      "file_or_dir": "file"
+    },
+    "uninstall.cpython-310.pyc": {
+      "size": 3326,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 4873,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 3247,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\distributions": {
+    "__pycache__": {
+      "size": 10556,
+      "file_or_dir": "directory"
+    },
+    "base.py": {
+      "size": 1221,
+      "file_or_dir": "file"
+    },
+    "installed.py": {
+      "size": 729,
+      "file_or_dir": "file"
+    },
+    "sdist.py": {
+      "size": 6494,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 1164,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 858,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__": {
+    "base.cpython-310.pyc": {
+      "size": 1883,
+      "file_or_dir": "file"
+    },
+    "installed.cpython-310.pyc": {
+      "size": 1260,
+      "file_or_dir": "file"
+    },
+    "sdist.cpython-310.pyc": {
+      "size": 4991,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 1627,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 795,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\index": {
+    "__pycache__": {
+      "size": 52075,
+      "file_or_dir": "directory"
+    },
+    "collector.py": {
+      "size": 16504,
+      "file_or_dir": "file"
+    },
+    "package_finder.py": {
+      "size": 37873,
+      "file_or_dir": "file"
+    },
+    "sources.py": {
+      "size": 6556,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 30,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__": {
+    "collector.cpython-310.pyc": {
+      "size": 15289,
+      "file_or_dir": "file"
+    },
+    "package_finder.cpython-310.pyc": {
+      "size": 29449,
+      "file_or_dir": "file"
+    },
+    "sources.cpython-310.pyc": {
+      "size": 7115,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 222,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\locations": {
+    "__pycache__": {
+      "size": 24001,
+      "file_or_dir": "directory"
+    },
+    "base.py": {
+      "size": 2556,
+      "file_or_dir": "file"
+    },
+    "_distutils.py": {
+      "size": 6100,
+      "file_or_dir": "file"
+    },
+    "_sysconfig.py": {
+      "size": 7680,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 15365,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__": {
+    "base.cpython-310.pyc": {
+      "size": 2392,
+      "file_or_dir": "file"
+    },
+    "_distutils.cpython-310.pyc": {
+      "size": 4597,
+      "file_or_dir": "file"
+    },
+    "_sysconfig.cpython-310.pyc": {
+      "size": 5988,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 11024,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata": {
+    "importlib": {
+      "size": 37287,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 43732,
+      "file_or_dir": "directory"
+    },
+    "base.py": {
+      "size": 25277,
+      "file_or_dir": "file"
+    },
+    "pkg_resources.py": {
+      "size": 9773,
+      "file_or_dir": "file"
+    },
+    "_json.py": {
+      "size": 2595,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 4280,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib": {
+    "__pycache__": {
+      "size": 19660,
+      "file_or_dir": "directory"
+    },
+    "_compat.py": {
+      "size": 1882,
+      "file_or_dir": "file"
+    },
+    "_dists.py": {
+      "size": 8181,
+      "file_or_dir": "file"
+    },
+    "_envs.py": {
+      "size": 7457,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 107,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__": {
+    "_compat.cpython-310.pyc": {
+      "size": 2745,
+      "file_or_dir": "file"
+    },
+    "_dists.cpython-310.pyc": {
+      "size": 8903,
+      "file_or_dir": "file"
+    },
+    "_envs.cpython-310.pyc": {
+      "size": 7699,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 313,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__pycache__": {
+    "base.cpython-310.pyc": {
+      "size": 26660,
+      "file_or_dir": "file"
+    },
+    "pkg_resources.cpython-310.pyc": {
+      "size": 10164,
+      "file_or_dir": "file"
+    },
+    "_json.cpython-310.pyc": {
+      "size": 2182,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 4726,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\models": {
+    "__pycache__": {
+      "size": 46367,
+      "file_or_dir": "directory"
+    },
+    "candidate.py": {
+      "size": 990,
+      "file_or_dir": "file"
+    },
+    "direct_url.py": {
+      "size": 6931,
+      "file_or_dir": "file"
+    },
+    "format_control.py": {
+      "size": 2520,
+      "file_or_dir": "file"
+    },
+    "index.py": {
+      "size": 1030,
+      "file_or_dir": "file"
+    },
+    "installation_report.py": {
+      "size": 2619,
+      "file_or_dir": "file"
+    },
+    "link.py": {
+      "size": 18817,
+      "file_or_dir": "file"
+    },
+    "scheme.py": {
+      "size": 738,
+      "file_or_dir": "file"
+    },
+    "search_scope.py": {
+      "size": 4643,
+      "file_or_dir": "file"
+    },
+    "selection_prefs.py": {
+      "size": 1907,
+      "file_or_dir": "file"
+    },
+    "target_python.py": {
+      "size": 3858,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 3600,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 63,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__": {
+    "candidate.cpython-310.pyc": {
+      "size": 1408,
+      "file_or_dir": "file"
+    },
+    "direct_url.cpython-310.pyc": {
+      "size": 7709,
+      "file_or_dir": "file"
+    },
+    "format_control.cpython-310.pyc": {
+      "size": 2733,
+      "file_or_dir": "file"
+    },
+    "index.cpython-310.pyc": {
+      "size": 1225,
+      "file_or_dir": "file"
+    },
+    "installation_report.cpython-310.pyc": {
+      "size": 1735,
+      "file_or_dir": "file"
+    },
+    "link.cpython-310.pyc": {
+      "size": 17155,
+      "file_or_dir": "file"
+    },
+    "scheme.cpython-310.pyc": {
+      "size": 1024,
+      "file_or_dir": "file"
+    },
+    "search_scope.cpython-310.pyc": {
+      "size": 3543,
+      "file_or_dir": "file"
+    },
+    "selection_prefs.cpython-310.pyc": {
+      "size": 1686,
+      "file_or_dir": "file"
+    },
+    "target_python.cpython-310.pyc": {
+      "size": 3437,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 4456,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 256,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\network": {
+    "__pycache__": {
+      "size": 47441,
+      "file_or_dir": "directory"
+    },
+    "auth.py": {
+      "size": 20435,
+      "file_or_dir": "file"
+    },
+    "cache.py": {
+      "size": 2145,
+      "file_or_dir": "file"
+    },
+    "download.py": {
+      "size": 6096,
+      "file_or_dir": "file"
+    },
+    "lazy_wheel.py": {
+      "size": 7638,
+      "file_or_dir": "file"
+    },
+    "session.py": {
+      "size": 18442,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 4073,
+      "file_or_dir": "file"
+    },
+    "xmlrpc.py": {
+      "size": 1791,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 50,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__": {
+    "auth.cpython-310.pyc": {
+      "size": 14410,
+      "file_or_dir": "file"
+    },
+    "cache.cpython-310.pyc": {
+      "size": 2931,
+      "file_or_dir": "file"
+    },
+    "download.cpython-310.pyc": {
+      "size": 5526,
+      "file_or_dir": "file"
+    },
+    "lazy_wheel.cpython-310.pyc": {
+      "size": 8412,
+      "file_or_dir": "file"
+    },
+    "session.cpython-310.pyc": {
+      "size": 12414,
+      "file_or_dir": "file"
+    },
+    "utils.cpython-310.pyc": {
+      "size": 1447,
+      "file_or_dir": "file"
+    },
+    "xmlrpc.cpython-310.pyc": {
+      "size": 2057,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 244,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations": {
+    "build": {
+      "size": 29947,
+      "file_or_dir": "directory"
+    },
+    "install": {
+      "size": 51734,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 25995,
+      "file_or_dir": "directory"
+    },
+    "check.py": {
+      "size": 5122,
+      "file_or_dir": "file"
+    },
+    "freeze.py": {
+      "size": 9816,
+      "file_or_dir": "file"
+    },
+    "prepare.py": {
+      "size": 27696,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build": {
+    "__pycache__": {
+      "size": 15164,
+      "file_or_dir": "directory"
+    },
+    "build_tracker.py": {
+      "size": 4133,
+      "file_or_dir": "file"
+    },
+    "metadata.py": {
+      "size": 1422,
+      "file_or_dir": "file"
+    },
+    "metadata_editable.py": {
+      "size": 1474,
+      "file_or_dir": "file"
+    },
+    "metadata_legacy.py": {
+      "size": 2198,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 1075,
+      "file_or_dir": "file"
+    },
+    "wheel_editable.py": {
+      "size": 1417,
+      "file_or_dir": "file"
+    },
+    "wheel_legacy.py": {
+      "size": 3064,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__": {
+    "build_tracker.cpython-310.pyc": {
+      "size": 4279,
+      "file_or_dir": "file"
+    },
+    "metadata.cpython-310.pyc": {
+      "size": 1431,
+      "file_or_dir": "file"
+    },
+    "metadata_editable.cpython-310.pyc": {
+      "size": 1465,
+      "file_or_dir": "file"
+    },
+    "metadata_legacy.cpython-310.pyc": {
+      "size": 2370,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 1221,
+      "file_or_dir": "file"
+    },
+    "wheel_editable.cpython-310.pyc": {
+      "size": 1445,
+      "file_or_dir": "file"
+    },
+    "wheel_legacy.cpython-310.pyc": {
+      "size": 2755,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 198,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install": {
+    "__pycache__": {
+      "size": 22926,
+      "file_or_dir": "directory"
+    },
+    "editable_legacy.py": {
+      "size": 1282,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 27475,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 51,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__": {
+    "editable_legacy.cpython-310.pyc": {
+      "size": 1485,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 21185,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 256,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__pycache__": {
+    "check.cpython-310.pyc": {
+      "size": 4020,
+      "file_or_dir": "file"
+    },
+    "freeze.cpython-310.pyc": {
+      "size": 6213,
+      "file_or_dir": "file"
+    },
+    "prepare.cpython-310.pyc": {
+      "size": 15570,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 192,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\req": {
+    "__pycache__": {
+      "size": 74924,
+      "file_or_dir": "directory"
+    },
+    "constructors.py": {
+      "size": 16610,
+      "file_or_dir": "file"
+    },
+    "req_file.py": {
+      "size": 17872,
+      "file_or_dir": "file"
+    },
+    "req_install.py": {
+      "size": 32782,
+      "file_or_dir": "file"
+    },
+    "req_set.py": {
+      "size": 2858,
+      "file_or_dir": "file"
+    },
+    "req_uninstall.py": {
+      "size": 24678,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 2738,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__": {
+    "constructors.cpython-310.pyc": {
+      "size": 12395,
+      "file_or_dir": "file"
+    },
+    "req_file.cpython-310.pyc": {
+      "size": 13802,
+      "file_or_dir": "file"
+    },
+    "req_install.cpython-310.pyc": {
+      "size": 23010,
+      "file_or_dir": "file"
+    },
+    "req_set.cpython-310.pyc": {
+      "size": 3907,
+      "file_or_dir": "file"
+    },
+    "req_uninstall.cpython-310.pyc": {
+      "size": 19249,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 2561,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution": {
+    "legacy": {
+      "size": 39266,
+      "file_or_dir": "directory"
+    },
+    "resolvelib": {
+      "size": 163746,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 1236,
+      "file_or_dir": "directory"
+    },
+    "base.py": {
+      "size": 583,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy": {
+    "__pycache__": {
+      "size": 15138,
+      "file_or_dir": "directory"
+    },
+    "resolver.py": {
+      "size": 24128,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy\\__pycache__": {
+    "resolver.cpython-310.pyc": {
+      "size": 14939,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 199,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib": {
+    "__pycache__": {
+      "size": 76202,
+      "file_or_dir": "directory"
+    },
+    "base.py": {
+      "size": 5220,
+      "file_or_dir": "file"
+    },
+    "candidates.py": {
+      "size": 18864,
+      "file_or_dir": "file"
+    },
+    "factory.py": {
+      "size": 27845,
+      "file_or_dir": "file"
+    },
+    "found_candidates.py": {
+      "size": 5705,
+      "file_or_dir": "file"
+    },
+    "provider.py": {
+      "size": 9824,
+      "file_or_dir": "file"
+    },
+    "reporter.py": {
+      "size": 3094,
+      "file_or_dir": "file"
+    },
+    "requirements.py": {
+      "size": 5454,
+      "file_or_dir": "file"
+    },
+    "resolver.py": {
+      "size": 11538,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__": {
+    "base.cpython-310.pyc": {
+      "size": 6446,
+      "file_or_dir": "file"
+    },
+    "candidates.cpython-310.pyc": {
+      "size": 18533,
+      "file_or_dir": "file"
+    },
+    "factory.cpython-310.pyc": {
+      "size": 19038,
+      "file_or_dir": "file"
+    },
+    "found_candidates.cpython-310.pyc": {
+      "size": 4863,
+      "file_or_dir": "file"
+    },
+    "provider.cpython-310.pyc": {
+      "size": 7931,
+      "file_or_dir": "file"
+    },
+    "reporter.cpython-310.pyc": {
+      "size": 3548,
+      "file_or_dir": "file"
+    },
+    "requirements.cpython-310.pyc": {
+      "size": 7461,
+      "file_or_dir": "file"
+    },
+    "resolver.cpython-310.pyc": {
+      "size": 8179,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 203,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__": {
+    "base.cpython-310.pyc": {
+      "size": 1044,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 192,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\utils": {
+    "__pycache__": {
+      "size": 107013,
+      "file_or_dir": "directory"
+    },
+    "appdirs.py": {
+      "size": 1665,
+      "file_or_dir": "file"
+    },
+    "compat.py": {
+      "size": 1884,
+      "file_or_dir": "file"
+    },
+    "compatibility_tags.py": {
+      "size": 5377,
+      "file_or_dir": "file"
+    },
+    "datetime.py": {
+      "size": 242,
+      "file_or_dir": "file"
+    },
+    "deprecation.py": {
+      "size": 3627,
+      "file_or_dir": "file"
+    },
+    "direct_url_helpers.py": {
+      "size": 3206,
+      "file_or_dir": "file"
+    },
+    "egg_link.py": {
+      "size": 2118,
+      "file_or_dir": "file"
+    },
+    "encoding.py": {
+      "size": 1169,
+      "file_or_dir": "file"
+    },
+    "entrypoints.py": {
+      "size": 3064,
+      "file_or_dir": "file"
+    },
+    "filesystem.py": {
+      "size": 5122,
+      "file_or_dir": "file"
+    },
+    "filetypes.py": {
+      "size": 716,
+      "file_or_dir": "file"
+    },
+    "glibc.py": {
+      "size": 3110,
+      "file_or_dir": "file"
+    },
+    "hashes.py": {
+      "size": 5118,
+      "file_or_dir": "file"
+    },
+    "inject_securetransport.py": {
+      "size": 795,
+      "file_or_dir": "file"
+    },
+    "logging.py": {
+      "size": 11632,
+      "file_or_dir": "file"
+    },
+    "misc.py": {
+      "size": 22216,
+      "file_or_dir": "file"
+    },
+    "models.py": {
+      "size": 1193,
+      "file_or_dir": "file"
+    },
+    "packaging.py": {
+      "size": 2108,
+      "file_or_dir": "file"
+    },
+    "setuptools_build.py": {
+      "size": 4435,
+      "file_or_dir": "file"
+    },
+    "subprocess.py": {
+      "size": 9200,
+      "file_or_dir": "file"
+    },
+    "temp_dir.py": {
+      "size": 7702,
+      "file_or_dir": "file"
+    },
+    "unpacking.py": {
+      "size": 8821,
+      "file_or_dir": "file"
+    },
+    "urls.py": {
+      "size": 1759,
+      "file_or_dir": "file"
+    },
+    "virtualenv.py": {
+      "size": 3456,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 4549,
+      "file_or_dir": "file"
+    },
+    "_jaraco_text.py": {
+      "size": 3351,
+      "file_or_dir": "file"
+    },
+    "_log.py": {
+      "size": 1015,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__": {
+    "appdirs.cpython-310.pyc": {
+      "size": 1613,
+      "file_or_dir": "file"
+    },
+    "compat.cpython-310.pyc": {
+      "size": 1503,
+      "file_or_dir": "file"
+    },
+    "compatibility_tags.cpython-310.pyc": {
+      "size": 4072,
+      "file_or_dir": "file"
+    },
+    "datetime.cpython-310.pyc": {
+      "size": 510,
+      "file_or_dir": "file"
+    },
+    "deprecation.cpython-310.pyc": {
+      "size": 3308,
+      "file_or_dir": "file"
+    },
+    "direct_url_helpers.cpython-310.pyc": {
+      "size": 2078,
+      "file_or_dir": "file"
+    },
+    "egg_link.cpython-310.pyc": {
+      "size": 2158,
+      "file_or_dir": "file"
+    },
+    "encoding.cpython-310.pyc": {
+      "size": 1300,
+      "file_or_dir": "file"
+    },
+    "entrypoints.cpython-310.pyc": {
+      "size": 2693,
+      "file_or_dir": "file"
+    },
+    "filesystem.cpython-310.pyc": {
+      "size": 4476,
+      "file_or_dir": "file"
+    },
+    "filetypes.cpython-310.pyc": {
+      "size": 937,
+      "file_or_dir": "file"
+    },
+    "glibc.cpython-310.pyc": {
+      "size": 1666,
+      "file_or_dir": "file"
+    },
+    "hashes.cpython-310.pyc": {
+      "size": 5476,
+      "file_or_dir": "file"
+    },
+    "inject_securetransport.cpython-310.pyc": {
+      "size": 982,
+      "file_or_dir": "file"
+    },
+    "logging.cpython-310.pyc": {
+      "size": 9712,
+      "file_or_dir": "file"
+    },
+    "misc.cpython-310.pyc": {
+      "size": 22121,
+      "file_or_dir": "file"
+    },
+    "models.cpython-310.pyc": {
+      "size": 1983,
+      "file_or_dir": "file"
+    },
+    "packaging.cpython-310.pyc": {
+      "size": 2075,
+      "file_or_dir": "file"
+    },
+    "setuptools_build.cpython-310.pyc": {
+      "size": 3811,
+      "file_or_dir": "file"
+    },
+    "subprocess.cpython-310.pyc": {
+      "size": 5766,
+      "file_or_dir": "file"
+    },
+    "temp_dir.cpython-310.pyc": {
+      "size": 7310,
+      "file_or_dir": "file"
+    },
+    "unpacking.cpython-310.pyc": {
+      "size": 6647,
+      "file_or_dir": "file"
+    },
+    "urls.cpython-310.pyc": {
+      "size": 1580,
+      "file_or_dir": "file"
+    },
+    "virtualenv.cpython-310.pyc": {
+      "size": 3283,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 4408,
+      "file_or_dir": "file"
+    },
+    "_jaraco_text.cpython-310.pyc": {
+      "size": 3843,
+      "file_or_dir": "file"
+    },
+    "_log.cpython-310.pyc": {
+      "size": 1515,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 187,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\vcs": {
+    "__pycache__": {
+      "size": 51169,
+      "file_or_dir": "directory"
+    },
+    "bazaar.py": {
+      "size": 3519,
+      "file_or_dir": "file"
+    },
+    "git.py": {
+      "size": 18116,
+      "file_or_dir": "file"
+    },
+    "mercurial.py": {
+      "size": 5238,
+      "file_or_dir": "file"
+    },
+    "subversion.py": {
+      "size": 11729,
+      "file_or_dir": "file"
+    },
+    "versioncontrol.py": {
+      "size": 22811,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 596,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__": {
+    "bazaar.cpython-310.pyc": {
+      "size": 3476,
+      "file_or_dir": "file"
+    },
+    "git.cpython-310.pyc": {
+      "size": 12540,
+      "file_or_dir": "file"
+    },
+    "mercurial.cpython-310.pyc": {
+      "size": 5056,
+      "file_or_dir": "file"
+    },
+    "subversion.cpython-310.pyc": {
+      "size": 8448,
+      "file_or_dir": "file"
+    },
+    "versioncontrol.cpython-310.pyc": {
+      "size": 21139,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 510,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_internal\\__pycache__": {
+    "build_env.cpython-310.pyc": {
+      "size": 9706,
+      "file_or_dir": "file"
+    },
+    "cache.cpython-310.pyc": {
+      "size": 8531,
+      "file_or_dir": "file"
+    },
+    "configuration.cpython-310.pyc": {
+      "size": 11338,
+      "file_or_dir": "file"
+    },
+    "exceptions.cpython-310.pyc": {
+      "size": 25478,
+      "file_or_dir": "file"
+    },
+    "main.cpython-310.pyc": {
+      "size": 613,
+      "file_or_dir": "file"
+    },
+    "pyproject.cpython-310.pyc": {
+      "size": 3637,
+      "file_or_dir": "file"
+    },
+    "self_outdated_check.cpython-310.pyc": {
+      "size": 6637,
+      "file_or_dir": "file"
+    },
+    "wheel_builder.cpython-310.pyc": {
+      "size": 8644,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 748,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor": {
+    "cachecontrol": {
+      "size": 84960,
+      "file_or_dir": "directory"
+    },
+    "certifi": {
+      "size": 282531,
+      "file_or_dir": "directory"
+    },
+    "chardet": {
+      "size": 1845469,
+      "file_or_dir": "directory"
+    },
+    "colorama": {
+      "size": 109853,
+      "file_or_dir": "directory"
+    },
+    "distlib": {
+      "size": 1435030,
+      "file_or_dir": "directory"
+    },
+    "distro": {
+      "size": 93610,
+      "file_or_dir": "directory"
+    },
+    "idna": {
+      "size": 477342,
+      "file_or_dir": "directory"
+    },
+    "msgpack": {
+      "size": 77866,
+      "file_or_dir": "directory"
+    },
+    "packaging": {
+      "size": 175380,
+      "file_or_dir": "directory"
+    },
+    "pkg_resources": {
+      "size": 210313,
+      "file_or_dir": "directory"
+    },
+    "platformdirs": {
+      "size": 89595,
+      "file_or_dir": "directory"
+    },
+    "pygments": {
+      "size": 843541,
+      "file_or_dir": "directory"
+    },
+    "pyparsing": {
+      "size": 687399,
+      "file_or_dir": "directory"
+    },
+    "pyproject_hooks": {
+      "size": 46844,
+      "file_or_dir": "directory"
+    },
+    "requests": {
+      "size": 326425,
+      "file_or_dir": "directory"
+    },
+    "resolvelib": {
+      "size": 68762,
+      "file_or_dir": "directory"
+    },
+    "rich": {
+      "size": 1899673,
+      "file_or_dir": "directory"
+    },
+    "tenacity": {
+      "size": 107179,
+      "file_or_dir": "directory"
+    },
+    "tomli": {
+      "size": 46860,
+      "file_or_dir": "directory"
+    },
+    "urllib3": {
+      "size": 687152,
+      "file_or_dir": "directory"
+    },
+    "webencodings": {
+      "size": 56271,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 98695,
+      "file_or_dir": "directory"
+    },
+    "six.py": {
+      "size": 34549,
+      "file_or_dir": "file"
+    },
+    "typing_extensions.py": {
+      "size": 84101,
+      "file_or_dir": "file"
+    },
+    "vendor.txt": {
+      "size": 476,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 4966,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol": {
+    "caches": {
+      "size": 13475,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 29900,
+      "file_or_dir": "directory"
+    },
+    "adapter.py": {
+      "size": 5033,
+      "file_or_dir": "file"
+    },
+    "cache.py": {
+      "size": 1535,
+      "file_or_dir": "file"
+    },
+    "compat.py": {
+      "size": 778,
+      "file_or_dir": "file"
+    },
+    "controller.py": {
+      "size": 16416,
+      "file_or_dir": "file"
+    },
+    "filewrapper.py": {
+      "size": 3946,
+      "file_or_dir": "file"
+    },
+    "heuristics.py": {
+      "size": 4154,
+      "file_or_dir": "file"
+    },
+    "serialize.py": {
+      "size": 7105,
+      "file_or_dir": "file"
+    },
+    "wrapper.py": {
+      "size": 774,
+      "file_or_dir": "file"
+    },
+    "_cmd.py": {
+      "size": 1379,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 465,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches": {
+    "__pycache__": {
+      "size": 6929,
+      "file_or_dir": "directory"
+    },
+    "file_cache.py": {
+      "size": 5271,
+      "file_or_dir": "file"
+    },
+    "redis_cache.py": {
+      "size": 1033,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 242,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__": {
+    "file_cache.cpython-310.pyc": {
+      "size": 4957,
+      "file_or_dir": "file"
+    },
+    "redis_cache.cpython-310.pyc": {
+      "size": 1615,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 357,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__": {
+    "adapter.cpython-310.pyc": {
+      "size": 3152,
+      "file_or_dir": "file"
+    },
+    "cache.cpython-310.pyc": {
+      "size": 2686,
+      "file_or_dir": "file"
+    },
+    "compat.cpython-310.pyc": {
+      "size": 752,
+      "file_or_dir": "file"
+    },
+    "controller.cpython-310.pyc": {
+      "size": 8586,
+      "file_or_dir": "file"
+    },
+    "filewrapper.cpython-310.pyc": {
+      "size": 2788,
+      "file_or_dir": "file"
+    },
+    "heuristics.cpython-310.pyc": {
+      "size": 4712,
+      "file_or_dir": "file"
+    },
+    "serialize.cpython-310.pyc": {
+      "size": 4327,
+      "file_or_dir": "file"
+    },
+    "wrapper.cpython-310.pyc": {
+      "size": 683,
+      "file_or_dir": "file"
+    },
+    "_cmd.cpython-310.pyc": {
+      "size": 1576,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 638,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi": {
+    "__pycache__": {
+      "size": 2670,
+      "file_or_dir": "directory"
+    },
+    "cacert.pem": {
+      "size": 275233,
+      "file_or_dir": "file"
+    },
+    "core.py": {
+      "size": 4279,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 94,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 255,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__": {
+    "core.cpython-310.pyc": {
+      "size": 1920,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 300,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 450,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet": {
+    "cli": {
+      "size": 6466,
+      "file_or_dir": "directory"
+    },
+    "metadata": {
+      "size": 21935,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 725982,
+      "file_or_dir": "directory"
+    },
+    "big5freq.py": {
+      "size": 31274,
+      "file_or_dir": "file"
+    },
+    "big5prober.py": {
+      "size": 1763,
+      "file_or_dir": "file"
+    },
+    "chardistribution.py": {
+      "size": 10032,
+      "file_or_dir": "file"
+    },
+    "charsetgroupprober.py": {
+      "size": 3915,
+      "file_or_dir": "file"
+    },
+    "charsetprober.py": {
+      "size": 5420,
+      "file_or_dir": "file"
+    },
+    "codingstatemachine.py": {
+      "size": 3732,
+      "file_or_dir": "file"
+    },
+    "codingstatemachinedict.py": {
+      "size": 542,
+      "file_or_dir": "file"
+    },
+    "cp949prober.py": {
+      "size": 1860,
+      "file_or_dir": "file"
+    },
+    "enums.py": {
+      "size": 1683,
+      "file_or_dir": "file"
+    },
+    "escprober.py": {
+      "size": 4006,
+      "file_or_dir": "file"
+    },
+    "escsm.py": {
+      "size": 12176,
+      "file_or_dir": "file"
+    },
+    "eucjpprober.py": {
+      "size": 3934,
+      "file_or_dir": "file"
+    },
+    "euckrfreq.py": {
+      "size": 13566,
+      "file_or_dir": "file"
+    },
+    "euckrprober.py": {
+      "size": 1753,
+      "file_or_dir": "file"
+    },
+    "euctwfreq.py": {
+      "size": 36913,
+      "file_or_dir": "file"
+    },
+    "euctwprober.py": {
+      "size": 1753,
+      "file_or_dir": "file"
+    },
+    "gb2312freq.py": {
+      "size": 20735,
+      "file_or_dir": "file"
+    },
+    "gb2312prober.py": {
+      "size": 1759,
+      "file_or_dir": "file"
+    },
+    "hebrewprober.py": {
+      "size": 14537,
+      "file_or_dir": "file"
+    },
+    "jisfreq.py": {
+      "size": 25796,
+      "file_or_dir": "file"
+    },
+    "johabfreq.py": {
+      "size": 42498,
+      "file_or_dir": "file"
+    },
+    "johabprober.py": {
+      "size": 1752,
+      "file_or_dir": "file"
+    },
+    "jpcntx.py": {
+      "size": 27055,
+      "file_or_dir": "file"
+    },
+    "langbulgarianmodel.py": {
+      "size": 104562,
+      "file_or_dir": "file"
+    },
+    "langgreekmodel.py": {
+      "size": 98484,
+      "file_or_dir": "file"
+    },
+    "langhebrewmodel.py": {
+      "size": 98196,
+      "file_or_dir": "file"
+    },
+    "langhungarianmodel.py": {
+      "size": 101363,
+      "file_or_dir": "file"
+    },
+    "langrussianmodel.py": {
+      "size": 128035,
+      "file_or_dir": "file"
+    },
+    "langthaimodel.py": {
+      "size": 102774,
+      "file_or_dir": "file"
+    },
+    "langturkishmodel.py": {
+      "size": 95372,
+      "file_or_dir": "file"
+    },
+    "latin1prober.py": {
+      "size": 5380,
+      "file_or_dir": "file"
+    },
+    "macromanprober.py": {
+      "size": 6077,
+      "file_or_dir": "file"
+    },
+    "mbcharsetprober.py": {
+      "size": 3715,
+      "file_or_dir": "file"
+    },
+    "mbcsgroupprober.py": {
+      "size": 2131,
+      "file_or_dir": "file"
+    },
+    "mbcssm.py": {
+      "size": 30391,
+      "file_or_dir": "file"
+    },
+    "resultdict.py": {
+      "size": 402,
+      "file_or_dir": "file"
+    },
+    "sbcharsetprober.py": {
+      "size": 6400,
+      "file_or_dir": "file"
+    },
+    "sbcsgroupprober.py": {
+      "size": 4137,
+      "file_or_dir": "file"
+    },
+    "sjisprober.py": {
+      "size": 4007,
+      "file_or_dir": "file"
+    },
+    "universaldetector.py": {
+      "size": 14848,
+      "file_or_dir": "file"
+    },
+    "utf1632prober.py": {
+      "size": 8505,
+      "file_or_dir": "file"
+    },
+    "utf8prober.py": {
+      "size": 2812,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 244,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 4797,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli": {
+    "__pycache__": {
+      "size": 3224,
+      "file_or_dir": "directory"
+    },
+    "chardetect.py": {
+      "size": 3242,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli\\__pycache__": {
+    "chardetect.cpython-310.pyc": {
+      "size": 3033,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 191,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata": {
+    "__pycache__": {
+      "size": 8375,
+      "file_or_dir": "directory"
+    },
+    "languages.py": {
+      "size": 13560,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata\\__pycache__": {
+    "languages.cpython-310.pyc": {
+      "size": 8179,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 196,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__": {
+    "big5freq.cpython-310.pyc": {
+      "size": 27174,
+      "file_or_dir": "file"
+    },
+    "big5prober.cpython-310.pyc": {
+      "size": 1152,
+      "file_or_dir": "file"
+    },
+    "chardistribution.cpython-310.pyc": {
+      "size": 6569,
+      "file_or_dir": "file"
+    },
+    "charsetgroupprober.cpython-310.pyc": {
+      "size": 2419,
+      "file_or_dir": "file"
+    },
+    "charsetprober.cpython-310.pyc": {
+      "size": 3825,
+      "file_or_dir": "file"
+    },
+    "codingstatemachine.cpython-310.pyc": {
+      "size": 3062,
+      "file_or_dir": "file"
+    },
+    "codingstatemachinedict.cpython-310.pyc": {
+      "size": 691,
+      "file_or_dir": "file"
+    },
+    "cp949prober.cpython-310.pyc": {
+      "size": 1159,
+      "file_or_dir": "file"
+    },
+    "enums.cpython-310.pyc": {
+      "size": 2652,
+      "file_or_dir": "file"
+    },
+    "escprober.cpython-310.pyc": {
+      "size": 2810,
+      "file_or_dir": "file"
+    },
+    "escsm.cpython-310.pyc": {
+      "size": 8513,
+      "file_or_dir": "file"
+    },
+    "eucjpprober.cpython-310.pyc": {
+      "size": 2596,
+      "file_or_dir": "file"
+    },
+    "euckrfreq.cpython-310.pyc": {
+      "size": 12058,
+      "file_or_dir": "file"
+    },
+    "euckrprober.cpython-310.pyc": {
+      "size": 1160,
+      "file_or_dir": "file"
+    },
+    "euctwfreq.cpython-310.pyc": {
+      "size": 27178,
+      "file_or_dir": "file"
+    },
+    "euctwprober.cpython-310.pyc": {
+      "size": 1160,
+      "file_or_dir": "file"
+    },
+    "gb2312freq.cpython-310.pyc": {
+      "size": 19102,
+      "file_or_dir": "file"
+    },
+    "gb2312prober.cpython-310.pyc": {
+      "size": 1168,
+      "file_or_dir": "file"
+    },
+    "hebrewprober.cpython-310.pyc": {
+      "size": 3409,
+      "file_or_dir": "file"
+    },
+    "jisfreq.cpython-310.pyc": {
+      "size": 22130,
+      "file_or_dir": "file"
+    },
+    "johabfreq.cpython-310.pyc": {
+      "size": 138754,
+      "file_or_dir": "file"
+    },
+    "johabprober.cpython-310.pyc": {
+      "size": 1159,
+      "file_or_dir": "file"
+    },
+    "jpcntx.cpython-310.pyc": {
+      "size": 37980,
+      "file_or_dir": "file"
+    },
+    "langbulgarianmodel.cpython-310.pyc": {
+      "size": 47922,
+      "file_or_dir": "file"
+    },
+    "langgreekmodel.cpython-310.pyc": {
+      "size": 46112,
+      "file_or_dir": "file"
+    },
+    "langhebrewmodel.cpython-310.pyc": {
+      "size": 44559,
+      "file_or_dir": "file"
+    },
+    "langhungarianmodel.cpython-310.pyc": {
+      "size": 47882,
+      "file_or_dir": "file"
+    },
+    "langrussianmodel.cpython-310.pyc": {
+      "size": 61023,
+      "file_or_dir": "file"
+    },
+    "langthaimodel.cpython-310.pyc": {
+      "size": 44735,
+      "file_or_dir": "file"
+    },
+    "langturkishmodel.cpython-310.pyc": {
+      "size": 44576,
+      "file_or_dir": "file"
+    },
+    "latin1prober.cpython-310.pyc": {
+      "size": 4558,
+      "file_or_dir": "file"
+    },
+    "macromanprober.cpython-310.pyc": {
+      "size": 4699,
+      "file_or_dir": "file"
+    },
+    "mbcharsetprober.cpython-310.pyc": {
+      "size": 2308,
+      "file_or_dir": "file"
+    },
+    "mbcsgroupprober.cpython-310.pyc": {
+      "size": 1256,
+      "file_or_dir": "file"
+    },
+    "mbcssm.cpython-310.pyc": {
+      "size": 20931,
+      "file_or_dir": "file"
+    },
+    "resultdict.cpython-310.pyc": {
+      "size": 571,
+      "file_or_dir": "file"
+    },
+    "sbcharsetprober.cpython-310.pyc": {
+      "size": 3677,
+      "file_or_dir": "file"
+    },
+    "sbcsgroupprober.cpython-310.pyc": {
+      "size": 1735,
+      "file_or_dir": "file"
+    },
+    "sjisprober.cpython-310.pyc": {
+      "size": 2634,
+      "file_or_dir": "file"
+    },
+    "universaldetector.cpython-310.pyc": {
+      "size": 7122,
+      "file_or_dir": "file"
+    },
+    "utf1632prober.cpython-310.pyc": {
+      "size": 6094,
+      "file_or_dir": "file"
+    },
+    "utf8prober.cpython-310.pyc": {
+      "size": 2104,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 436,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 3168,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama": {
+    "tests": {
+      "size": 55424,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 23873,
+      "file_or_dir": "directory"
+    },
+    "ansi.py": {
+      "size": 2522,
+      "file_or_dir": "file"
+    },
+    "ansitowin32.py": {
+      "size": 11128,
+      "file_or_dir": "file"
+    },
+    "initialise.py": {
+      "size": 3325,
+      "file_or_dir": "file"
+    },
+    "win32.py": {
+      "size": 6181,
+      "file_or_dir": "file"
+    },
+    "winterm.py": {
+      "size": 7134,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 266,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\tests": {
+    "__pycache__": {
+      "size": 28437,
+      "file_or_dir": "directory"
+    },
+    "ansitowin32_test.py": {
+      "size": 10678,
+      "file_or_dir": "file"
+    },
+    "ansi_test.py": {
+      "size": 2839,
+      "file_or_dir": "file"
+    },
+    "initialise_test.py": {
+      "size": 6741,
+      "file_or_dir": "file"
+    },
+    "isatty_test.py": {
+      "size": 1866,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 1079,
+      "file_or_dir": "file"
+    },
+    "winterm_test.py": {
+      "size": 3709,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 75,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\tests\\__pycache__": {
+    "ansitowin32_test.cpython-310.pyc": {
+      "size": 11597,
+      "file_or_dir": "file"
+    },
+    "ansi_test.cpython-310.pyc": {
+      "size": 2286,
+      "file_or_dir": "file"
+    },
+    "initialise_test.cpython-310.pyc": {
+      "size": 6894,
+      "file_or_dir": "file"
+    },
+    "isatty_test.cpython-310.pyc": {
+      "size": 2685,
+      "file_or_dir": "file"
+    },
+    "utils.cpython-310.pyc": {
+      "size": 1594,
+      "file_or_dir": "file"
+    },
+    "winterm_test.cpython-310.pyc": {
+      "size": 3187,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 194,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\__pycache__": {
+    "ansi.cpython-310.pyc": {
+      "size": 3000,
+      "file_or_dir": "file"
+    },
+    "ansitowin32.cpython-310.pyc": {
+      "size": 8512,
+      "file_or_dir": "file"
+    },
+    "initialise.cpython-310.pyc": {
+      "size": 2257,
+      "file_or_dir": "file"
+    },
+    "win32.cpython-310.pyc": {
+      "size": 4467,
+      "file_or_dir": "file"
+    },
+    "winterm.cpython-310.pyc": {
+      "size": 5163,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 474,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib": {
+    "__pycache__": {
+      "size": 295811,
+      "file_or_dir": "directory"
+    },
+    "compat.py": {
+      "size": 41259,
+      "file_or_dir": "file"
+    },
+    "database.py": {
+      "size": 51697,
+      "file_or_dir": "file"
+    },
+    "index.py": {
+      "size": 20834,
+      "file_or_dir": "file"
+    },
+    "locators.py": {
+      "size": 51991,
+      "file_or_dir": "file"
+    },
+    "manifest.py": {
+      "size": 14811,
+      "file_or_dir": "file"
+    },
+    "markers.py": {
+      "size": 5058,
+      "file_or_dir": "file"
+    },
+    "metadata.py": {
+      "size": 39801,
+      "file_or_dir": "file"
+    },
+    "resources.py": {
+      "size": 10820,
+      "file_or_dir": "file"
+    },
+    "scripts.py": {
+      "size": 18102,
+      "file_or_dir": "file"
+    },
+    "t32.exe": {
+      "size": 97792,
+      "file_or_dir": "file"
+    },
+    "t64-arm.exe": {
+      "size": 182784,
+      "file_or_dir": "file"
+    },
+    "t64.exe": {
+      "size": 108032,
+      "file_or_dir": "file"
+    },
+    "util.py": {
+      "size": 66262,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 23513,
+      "file_or_dir": "file"
+    },
+    "w32.exe": {
+      "size": 91648,
+      "file_or_dir": "file"
+    },
+    "w64-arm.exe": {
+      "size": 168448,
+      "file_or_dir": "file"
+    },
+    "w64.exe": {
+      "size": 101888,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 43898,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 581,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__": {
+    "compat.cpython-310.pyc": {
+      "size": 31404,
+      "file_or_dir": "file"
+    },
+    "database.cpython-310.pyc": {
+      "size": 43144,
+      "file_or_dir": "file"
+    },
+    "index.cpython-310.pyc": {
+      "size": 17309,
+      "file_or_dir": "file"
+    },
+    "locators.cpython-310.pyc": {
+      "size": 38366,
+      "file_or_dir": "file"
+    },
+    "manifest.cpython-310.pyc": {
+      "size": 10226,
+      "file_or_dir": "file"
+    },
+    "markers.cpython-310.pyc": {
+      "size": 5030,
+      "file_or_dir": "file"
+    },
+    "metadata.cpython-310.pyc": {
+      "size": 26783,
+      "file_or_dir": "file"
+    },
+    "resources.cpython-310.pyc": {
+      "size": 11032,
+      "file_or_dir": "file"
+    },
+    "scripts.cpython-310.pyc": {
+      "size": 11496,
+      "file_or_dir": "file"
+    },
+    "util.cpython-310.pyc": {
+      "size": 51691,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 20145,
+      "file_or_dir": "file"
+    },
+    "wheel.cpython-310.pyc": {
+      "size": 28127,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 1058,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\distro": {
+    "__pycache__": {
+      "size": 43235,
+      "file_or_dir": "directory"
+    },
+    "distro.py": {
+      "size": 49330,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 981,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 64,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\distro\\__pycache__": {
+    "distro.cpython-310.pyc": {
+      "size": 42059,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 911,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 265,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\idna": {
+    "__pycache__": {
+      "size": 207032,
+      "file_or_dir": "directory"
+    },
+    "codec.py": {
+      "size": 3374,
+      "file_or_dir": "file"
+    },
+    "compat.py": {
+      "size": 321,
+      "file_or_dir": "file"
+    },
+    "core.py": {
+      "size": 12950,
+      "file_or_dir": "file"
+    },
+    "idnadata.py": {
+      "size": 44375,
+      "file_or_dir": "file"
+    },
+    "intranges.py": {
+      "size": 1881,
+      "file_or_dir": "file"
+    },
+    "package_data.py": {
+      "size": 21,
+      "file_or_dir": "file"
+    },
+    "uts46data.py": {
+      "size": 206539,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 849,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__": {
+    "codec.cpython-310.pyc": {
+      "size": 2814,
+      "file_or_dir": "file"
+    },
+    "compat.cpython-310.pyc": {
+      "size": 743,
+      "file_or_dir": "file"
+    },
+    "core.cpython-310.pyc": {
+      "size": 9672,
+      "file_or_dir": "file"
+    },
+    "idnadata.cpython-310.pyc": {
+      "size": 38379,
+      "file_or_dir": "file"
+    },
+    "intranges.cpython-310.pyc": {
+      "size": 1980,
+      "file_or_dir": "file"
+    },
+    "package_data.cpython-310.pyc": {
+      "size": 207,
+      "file_or_dir": "file"
+    },
+    "uts46data.cpython-310.pyc": {
+      "size": 152394,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 843,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack": {
+    "__pycache__": {
+      "size": 35030,
+      "file_or_dir": "directory"
+    },
+    "exceptions.py": {
+      "size": 1081,
+      "file_or_dir": "file"
+    },
+    "ext.py": {
+      "size": 6079,
+      "file_or_dir": "file"
+    },
+    "fallback.py": {
+      "size": 34544,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 1132,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__": {
+    "exceptions.cpython-310.pyc": {
+      "size": 1804,
+      "file_or_dir": "file"
+    },
+    "ext.cpython-310.pyc": {
+      "size": 6311,
+      "file_or_dir": "file"
+    },
+    "fallback.cpython-310.pyc": {
+      "size": 25474,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 1441,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging": {
+    "__pycache__": {
+      "size": 79088,
+      "file_or_dir": "directory"
+    },
+    "markers.py": {
+      "size": 8487,
+      "file_or_dir": "file"
+    },
+    "requirements.py": {
+      "size": 4676,
+      "file_or_dir": "file"
+    },
+    "specifiers.py": {
+      "size": 30110,
+      "file_or_dir": "file"
+    },
+    "tags.py": {
+      "size": 15699,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 4200,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 14665,
+      "file_or_dir": "file"
+    },
+    "_manylinux.py": {
+      "size": 11488,
+      "file_or_dir": "file"
+    },
+    "_musllinux.py": {
+      "size": 4378,
+      "file_or_dir": "file"
+    },
+    "_structures.py": {
+      "size": 1431,
+      "file_or_dir": "file"
+    },
+    "__about__.py": {
+      "size": 661,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 497,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__": {
+    "markers.cpython-310.pyc": {
+      "size": 9283,
+      "file_or_dir": "file"
+    },
+    "requirements.cpython-310.pyc": {
+      "size": 3971,
+      "file_or_dir": "file"
+    },
+    "specifiers.cpython-310.pyc": {
+      "size": 21523,
+      "file_or_dir": "file"
+    },
+    "tags.cpython-310.pyc": {
+      "size": 12186,
+      "file_or_dir": "file"
+    },
+    "utils.cpython-310.pyc": {
+      "size": 3571,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 12921,
+      "file_or_dir": "file"
+    },
+    "_manylinux.cpython-310.pyc": {
+      "size": 7296,
+      "file_or_dir": "file"
+    },
+    "_musllinux.cpython-310.pyc": {
+      "size": 4608,
+      "file_or_dir": "file"
+    },
+    "_structures.cpython-310.pyc": {
+      "size": 2701,
+      "file_or_dir": "file"
+    },
+    "__about__.cpython-310.pyc": {
+      "size": 586,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 442,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources": {
+    "__pycache__": {
+      "size": 101061,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 109252,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 101061,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs": {
+    "__pycache__": {
+      "size": 42879,
+      "file_or_dir": "directory"
+    },
+    "android.py": {
+      "size": 4303,
+      "file_or_dir": "file"
+    },
+    "api.py": {
+      "size": 5706,
+      "file_or_dir": "file"
+    },
+    "macos.py": {
+      "size": 2800,
+      "file_or_dir": "file"
+    },
+    "unix.py": {
+      "size": 7448,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 160,
+      "file_or_dir": "file"
+    },
+    "windows.py": {
+      "size": 7098,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 18003,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 1198,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__pycache__": {
+    "android.cpython-310.pyc": {
+      "size": 4591,
+      "file_or_dir": "file"
+    },
+    "api.cpython-310.pyc": {
+      "size": 5970,
+      "file_or_dir": "file"
+    },
+    "macos.cpython-310.pyc": {
+      "size": 3398,
+      "file_or_dir": "file"
+    },
+    "unix.cpython-310.pyc": {
+      "size": 7443,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 286,
+      "file_or_dir": "file"
+    },
+    "windows.cpython-310.pyc": {
+      "size": 6896,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 13047,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 1248,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments": {
+    "filters": {
+      "size": 69990,
+      "file_or_dir": "directory"
+    },
+    "formatters": {
+      "size": 246163,
+      "file_or_dir": "directory"
+    },
+    "lexers": {
+      "size": 235588,
+      "file_or_dir": "directory"
+    },
+    "styles": {
+      "size": 6786,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 118000,
+      "file_or_dir": "directory"
+    },
+    "cmdline.py": {
+      "size": 23685,
+      "file_or_dir": "file"
+    },
+    "console.py": {
+      "size": 1697,
+      "file_or_dir": "file"
+    },
+    "filter.py": {
+      "size": 1938,
+      "file_or_dir": "file"
+    },
+    "formatter.py": {
+      "size": 2917,
+      "file_or_dir": "file"
+    },
+    "lexer.py": {
+      "size": 32064,
+      "file_or_dir": "file"
+    },
+    "modeline.py": {
+      "size": 986,
+      "file_or_dir": "file"
+    },
+    "plugin.py": {
+      "size": 2591,
+      "file_or_dir": "file"
+    },
+    "regexopt.py": {
+      "size": 3072,
+      "file_or_dir": "file"
+    },
+    "scanner.py": {
+      "size": 3092,
+      "file_or_dir": "file"
+    },
+    "sphinxext.py": {
+      "size": 6882,
+      "file_or_dir": "file"
+    },
+    "style.py": {
+      "size": 6257,
+      "file_or_dir": "file"
+    },
+    "token.py": {
+      "size": 6184,
+      "file_or_dir": "file"
+    },
+    "unistring.py": {
+      "size": 63187,
+      "file_or_dir": "file"
+    },
+    "util.py": {
+      "size": 9110,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 2999,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 353,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters": {
+    "__pycache__": {
+      "size": 29604,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 40386,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 29604,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters": {
+    "__pycache__": {
+      "size": 110927,
+      "file_or_dir": "directory"
+    },
+    "bbcode.py": {
+      "size": 3314,
+      "file_or_dir": "file"
+    },
+    "groff.py": {
+      "size": 5086,
+      "file_or_dir": "file"
+    },
+    "html.py": {
+      "size": 35601,
+      "file_or_dir": "file"
+    },
+    "img.py": {
+      "size": 21938,
+      "file_or_dir": "file"
+    },
+    "irc.py": {
+      "size": 4981,
+      "file_or_dir": "file"
+    },
+    "latex.py": {
+      "size": 19351,
+      "file_or_dir": "file"
+    },
+    "other.py": {
+      "size": 5073,
+      "file_or_dir": "file"
+    },
+    "pangomarkup.py": {
+      "size": 2212,
+      "file_or_dir": "file"
+    },
+    "rtf.py": {
+      "size": 5014,
+      "file_or_dir": "file"
+    },
+    "svg.py": {
+      "size": 7335,
+      "file_or_dir": "file"
+    },
+    "terminal.py": {
+      "size": 4674,
+      "file_or_dir": "file"
+    },
+    "terminal256.py": {
+      "size": 11753,
+      "file_or_dir": "file"
+    },
+    "_mapping.py": {
+      "size": 4104,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 4800,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters\\__pycache__": {
+    "bbcode.cpython-310.pyc": {
+      "size": 3081,
+      "file_or_dir": "file"
+    },
+    "groff.cpython-310.pyc": {
+      "size": 4394,
+      "file_or_dir": "file"
+    },
+    "html.cpython-310.pyc": {
+      "size": 29130,
+      "file_or_dir": "file"
+    },
+    "img.cpython-310.pyc": {
+      "size": 17558,
+      "file_or_dir": "file"
+    },
+    "irc.cpython-310.pyc": {
+      "size": 4094,
+      "file_or_dir": "file"
+    },
+    "latex.cpython-310.pyc": {
+      "size": 13794,
+      "file_or_dir": "file"
+    },
+    "other.cpython-310.pyc": {
+      "size": 4800,
+      "file_or_dir": "file"
+    },
+    "pangomarkup.cpython-310.pyc": {
+      "size": 2100,
+      "file_or_dir": "file"
+    },
+    "rtf.cpython-310.pyc": {
+      "size": 4130,
+      "file_or_dir": "file"
+    },
+    "svg.cpython-310.pyc": {
+      "size": 6328,
+      "file_or_dir": "file"
+    },
+    "terminal.cpython-310.pyc": {
+      "size": 3995,
+      "file_or_dir": "file"
+    },
+    "terminal256.cpython-310.pyc": {
+      "size": 9245,
+      "file_or_dir": "file"
+    },
+    "_mapping.cpython-310.pyc": {
+      "size": 3926,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 4352,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers": {
+    "__pycache__": {
+      "size": 99296,
+      "file_or_dir": "directory"
+    },
+    "python.py": {
+      "size": 53572,
+      "file_or_dir": "file"
+    },
+    "_mapping.py": {
+      "size": 71556,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 11164,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__pycache__": {
+    "python.cpython-310.pyc": {
+      "size": 29877,
+      "file_or_dir": "file"
+    },
+    "_mapping.cpython-310.pyc": {
+      "size": 60381,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 9038,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles": {
+    "__pycache__": {
+      "size": 3367,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 3419,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 3367,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__pycache__": {
+    "cmdline.cpython-310.pyc": {
+      "size": 15599,
+      "file_or_dir": "file"
+    },
+    "console.cpython-310.pyc": {
+      "size": 1879,
+      "file_or_dir": "file"
+    },
+    "filter.cpython-310.pyc": {
+      "size": 2650,
+      "file_or_dir": "file"
+    },
+    "formatter.cpython-310.pyc": {
+      "size": 3006,
+      "file_or_dir": "file"
+    },
+    "lexer.cpython-310.pyc": {
+      "size": 24425,
+      "file_or_dir": "file"
+    },
+    "modeline.cpython-310.pyc": {
+      "size": 1188,
+      "file_or_dir": "file"
+    },
+    "plugin.cpython-310.pyc": {
+      "size": 2516,
+      "file_or_dir": "file"
+    },
+    "regexopt.cpython-310.pyc": {
+      "size": 2952,
+      "file_or_dir": "file"
+    },
+    "scanner.cpython-310.pyc": {
+      "size": 3554,
+      "file_or_dir": "file"
+    },
+    "sphinxext.cpython-310.pyc": {
+      "size": 7117,
+      "file_or_dir": "file"
+    },
+    "style.cpython-310.pyc": {
+      "size": 4575,
+      "file_or_dir": "file"
+    },
+    "token.cpython-310.pyc": {
+      "size": 4667,
+      "file_or_dir": "file"
+    },
+    "unistring.cpython-310.pyc": {
+      "size": 31201,
+      "file_or_dir": "file"
+    },
+    "util.cpython-310.pyc": {
+      "size": 9143,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 2944,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 584,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing": {
+    "diagram": {
+      "size": 40262,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 300773,
+      "file_or_dir": "directory"
+    },
+    "actions.py": {
+      "size": 6426,
+      "file_or_dir": "file"
+    },
+    "common.py": {
+      "size": 12936,
+      "file_or_dir": "file"
+    },
+    "core.py": {
+      "size": 213344,
+      "file_or_dir": "file"
+    },
+    "exceptions.py": {
+      "size": 9023,
+      "file_or_dir": "file"
+    },
+    "helpers.py": {
+      "size": 39129,
+      "file_or_dir": "file"
+    },
+    "results.py": {
+      "size": 25341,
+      "file_or_dir": "file"
+    },
+    "testing.py": {
+      "size": 13402,
+      "file_or_dir": "file"
+    },
+    "unicode.py": {
+      "size": 10787,
+      "file_or_dir": "file"
+    },
+    "util.py": {
+      "size": 6805,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 9171,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram": {
+    "__pycache__": {
+      "size": 16577,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 23685,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 16577,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__": {
+    "actions.cpython-310.pyc": {
+      "size": 7175,
+      "file_or_dir": "file"
+    },
+    "common.cpython-310.pyc": {
+      "size": 10101,
+      "file_or_dir": "file"
+    },
+    "core.cpython-310.pyc": {
+      "size": 176452,
+      "file_or_dir": "file"
+    },
+    "exceptions.cpython-310.pyc": {
+      "size": 9059,
+      "file_or_dir": "file"
+    },
+    "helpers.cpython-310.pyc": {
+      "size": 35336,
+      "file_or_dir": "file"
+    },
+    "results.cpython-310.pyc": {
+      "size": 24777,
+      "file_or_dir": "file"
+    },
+    "testing.cpython-310.pyc": {
+      "size": 12093,
+      "file_or_dir": "file"
+    },
+    "unicode.cpython-310.pyc": {
+      "size": 10054,
+      "file_or_dir": "file"
+    },
+    "util.cpython-310.pyc": {
+      "size": 8601,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 7125,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks": {
+    "_in_process": {
+      "size": 21995,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 12300,
+      "file_or_dir": "directory"
+    },
+    "_compat.py": {
+      "size": 138,
+      "file_or_dir": "file"
+    },
+    "_impl.py": {
+      "size": 11920,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 491,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process": {
+    "__pycache__": {
+      "size": 10522,
+      "file_or_dir": "directory"
+    },
+    "_in_process.py": {
+      "size": 10927,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 546,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process\\__pycache__": {
+    "_in_process.cpython-310.pyc": {
+      "size": 9702,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 820,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\__pycache__": {
+    "_compat.cpython-310.pyc": {
+      "size": 333,
+      "file_or_dir": "file"
+    },
+    "_impl.cpython-310.pyc": {
+      "size": 11385,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 582,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\requests": {
+    "__pycache__": {
+      "size": 146002,
+      "file_or_dir": "directory"
+    },
+    "adapters.py": {
+      "size": 21443,
+      "file_or_dir": "file"
+    },
+    "api.py": {
+      "size": 6377,
+      "file_or_dir": "file"
+    },
+    "auth.py": {
+      "size": 10187,
+      "file_or_dir": "file"
+    },
+    "certs.py": {
+      "size": 575,
+      "file_or_dir": "file"
+    },
+    "compat.py": {
+      "size": 1286,
+      "file_or_dir": "file"
+    },
+    "cookies.py": {
+      "size": 18560,
+      "file_or_dir": "file"
+    },
+    "exceptions.py": {
+      "size": 3823,
+      "file_or_dir": "file"
+    },
+    "help.py": {
+      "size": 3879,
+      "file_or_dir": "file"
+    },
+    "hooks.py": {
+      "size": 733,
+      "file_or_dir": "file"
+    },
+    "models.py": {
+      "size": 35288,
+      "file_or_dir": "file"
+    },
+    "packages.py": {
+      "size": 695,
+      "file_or_dir": "file"
+    },
+    "sessions.py": {
+      "size": 30180,
+      "file_or_dir": "file"
+    },
+    "status_codes.py": {
+      "size": 4235,
+      "file_or_dir": "file"
+    },
+    "structures.py": {
+      "size": 2912,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 33240,
+      "file_or_dir": "file"
+    },
+    "_internal_utils.py": {
+      "size": 1397,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 5178,
+      "file_or_dir": "file"
+    },
+    "__version__.py": {
+      "size": 435,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__": {
+    "adapters.cpython-310.pyc": {
+      "size": 16895,
+      "file_or_dir": "file"
+    },
+    "api.cpython-310.pyc": {
+      "size": 6650,
+      "file_or_dir": "file"
+    },
+    "auth.cpython-310.pyc": {
+      "size": 8118,
+      "file_or_dir": "file"
+    },
+    "certs.cpython-310.pyc": {
+      "size": 805,
+      "file_or_dir": "file"
+    },
+    "compat.cpython-310.pyc": {
+      "size": 1367,
+      "file_or_dir": "file"
+    },
+    "cookies.cpython-310.pyc": {
+      "size": 18687,
+      "file_or_dir": "file"
+    },
+    "exceptions.cpython-310.pyc": {
+      "size": 5737,
+      "file_or_dir": "file"
+    },
+    "help.cpython-310.pyc": {
+      "size": 2863,
+      "file_or_dir": "file"
+    },
+    "hooks.cpython-310.pyc": {
+      "size": 990,
+      "file_or_dir": "file"
+    },
+    "models.cpython-310.pyc": {
+      "size": 24262,
+      "file_or_dir": "file"
+    },
+    "packages.cpython-310.pyc": {
+      "size": 504,
+      "file_or_dir": "file"
+    },
+    "sessions.cpython-310.pyc": {
+      "size": 19570,
+      "file_or_dir": "file"
+    },
+    "status_codes.cpython-310.pyc": {
+      "size": 4669,
+      "file_or_dir": "file"
+    },
+    "structures.cpython-310.pyc": {
+      "size": 4434,
+      "file_or_dir": "file"
+    },
+    "utils.cpython-310.pyc": {
+      "size": 24332,
+      "file_or_dir": "file"
+    },
+    "_internal_utils.cpython-310.pyc": {
+      "size": 1561,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 4012,
+      "file_or_dir": "file"
+    },
+    "__version__.cpython-310.pyc": {
+      "size": 546,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib": {
+    "compat": {
+      "size": 726,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 34553,
+      "file_or_dir": "directory"
+    },
+    "providers.py": {
+      "size": 5871,
+      "file_or_dir": "file"
+    },
+    "reporters.py": {
+      "size": 1601,
+      "file_or_dir": "file"
+    },
+    "resolvers.py": {
+      "size": 20511,
+      "file_or_dir": "file"
+    },
+    "structs.py": {
+      "size": 4963,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 537,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat": {
+    "__pycache__": {
+      "size": 570,
+      "file_or_dir": "directory"
+    },
+    "collections_abc.py": {
+      "size": 156,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__": {
+    "collections_abc.cpython-310.pyc": {
+      "size": 373,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 197,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__": {
+    "providers.cpython-310.pyc": {
+      "size": 6652,
+      "file_or_dir": "file"
+    },
+    "reporters.cpython-310.pyc": {
+      "size": 2605,
+      "file_or_dir": "file"
+    },
+    "resolvers.cpython-310.pyc": {
+      "size": 17433,
+      "file_or_dir": "file"
+    },
+    "structs.cpython-310.pyc": {
+      "size": 7261,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 602,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\rich": {
+    "__pycache__": {
+      "size": 1008038,
+      "file_or_dir": "directory"
+    },
+    "abc.py": {
+      "size": 890,
+      "file_or_dir": "file"
+    },
+    "align.py": {
+      "size": 10368,
+      "file_or_dir": "file"
+    },
+    "ansi.py": {
+      "size": 6906,
+      "file_or_dir": "file"
+    },
+    "bar.py": {
+      "size": 3264,
+      "file_or_dir": "file"
+    },
+    "box.py": {
+      "size": 9842,
+      "file_or_dir": "file"
+    },
+    "cells.py": {
+      "size": 4509,
+      "file_or_dir": "file"
+    },
+    "color.py": {
+      "size": 18224,
+      "file_or_dir": "file"
+    },
+    "color_triplet.py": {
+      "size": 1054,
+      "file_or_dir": "file"
+    },
+    "columns.py": {
+      "size": 7131,
+      "file_or_dir": "file"
+    },
+    "console.py": {
+      "size": 99195,
+      "file_or_dir": "file"
+    },
+    "constrain.py": {
+      "size": 1288,
+      "file_or_dir": "file"
+    },
+    "containers.py": {
+      "size": 5497,
+      "file_or_dir": "file"
+    },
+    "control.py": {
+      "size": 6630,
+      "file_or_dir": "file"
+    },
+    "default_styles.py": {
+      "size": 8082,
+      "file_or_dir": "file"
+    },
+    "diagnose.py": {
+      "size": 972,
+      "file_or_dir": "file"
+    },
+    "emoji.py": {
+      "size": 2501,
+      "file_or_dir": "file"
+    },
+    "errors.py": {
+      "size": 642,
+      "file_or_dir": "file"
+    },
+    "filesize.py": {
+      "size": 2508,
+      "file_or_dir": "file"
+    },
+    "file_proxy.py": {
+      "size": 1683,
+      "file_or_dir": "file"
+    },
+    "highlighter.py": {
+      "size": 9584,
+      "file_or_dir": "file"
+    },
+    "json.py": {
+      "size": 5032,
+      "file_or_dir": "file"
+    },
+    "jupyter.py": {
+      "size": 3252,
+      "file_or_dir": "file"
+    },
+    "layout.py": {
+      "size": 14007,
+      "file_or_dir": "file"
+    },
+    "live.py": {
+      "size": 14273,
+      "file_or_dir": "file"
+    },
+    "live_render.py": {
+      "size": 3667,
+      "file_or_dir": "file"
+    },
+    "logging.py": {
+      "size": 11903,
+      "file_or_dir": "file"
+    },
+    "markup.py": {
+      "size": 8198,
+      "file_or_dir": "file"
+    },
+    "measure.py": {
+      "size": 5305,
+      "file_or_dir": "file"
+    },
+    "padding.py": {
+      "size": 4970,
+      "file_or_dir": "file"
+    },
+    "pager.py": {
+      "size": 828,
+      "file_or_dir": "file"
+    },
+    "palette.py": {
+      "size": 3396,
+      "file_or_dir": "file"
+    },
+    "panel.py": {
+      "size": 10574,
+      "file_or_dir": "file"
+    },
+    "pretty.py": {
+      "size": 35852,
+      "file_or_dir": "file"
+    },
+    "progress.py": {
+      "size": 59706,
+      "file_or_dir": "file"
+    },
+    "progress_bar.py": {
+      "size": 8165,
+      "file_or_dir": "file"
+    },
+    "prompt.py": {
+      "size": 11303,
+      "file_or_dir": "file"
+    },
+    "protocol.py": {
+      "size": 1391,
+      "file_or_dir": "file"
+    },
+    "region.py": {
+      "size": 166,
+      "file_or_dir": "file"
+    },
+    "repr.py": {
+      "size": 4431,
+      "file_or_dir": "file"
+    },
+    "rule.py": {
+      "size": 4602,
+      "file_or_dir": "file"
+    },
+    "scope.py": {
+      "size": 2843,
+      "file_or_dir": "file"
+    },
+    "screen.py": {
+      "size": 1591,
+      "file_or_dir": "file"
+    },
+    "segment.py": {
+      "size": 24247,
+      "file_or_dir": "file"
+    },
+    "spinner.py": {
+      "size": 4339,
+      "file_or_dir": "file"
+    },
+    "status.py": {
+      "size": 4425,
+      "file_or_dir": "file"
+    },
+    "style.py": {
+      "size": 27073,
+      "file_or_dir": "file"
+    },
+    "styled.py": {
+      "size": 1258,
+      "file_or_dir": "file"
+    },
+    "syntax.py": {
+      "size": 35153,
+      "file_or_dir": "file"
+    },
+    "table.py": {
+      "size": 39684,
+      "file_or_dir": "file"
+    },
+    "terminal_theme.py": {
+      "size": 3370,
+      "file_or_dir": "file"
+    },
+    "text.py": {
+      "size": 45525,
+      "file_or_dir": "file"
+    },
+    "theme.py": {
+      "size": 3777,
+      "file_or_dir": "file"
+    },
+    "themes.py": {
+      "size": 102,
+      "file_or_dir": "file"
+    },
+    "traceback.py": {
+      "size": 29604,
+      "file_or_dir": "file"
+    },
+    "tree.py": {
+      "size": 9169,
+      "file_or_dir": "file"
+    },
+    "_cell_widths.py": {
+      "size": 10096,
+      "file_or_dir": "file"
+    },
+    "_emoji_codes.py": {
+      "size": 140235,
+      "file_or_dir": "file"
+    },
+    "_emoji_replace.py": {
+      "size": 1064,
+      "file_or_dir": "file"
+    },
+    "_export_format.py": {
+      "size": 2100,
+      "file_or_dir": "file"
+    },
+    "_extension.py": {
+      "size": 265,
+      "file_or_dir": "file"
+    },
+    "_fileno.py": {
+      "size": 799,
+      "file_or_dir": "file"
+    },
+    "_inspect.py": {
+      "size": 9695,
+      "file_or_dir": "file"
+    },
+    "_log_render.py": {
+      "size": 3225,
+      "file_or_dir": "file"
+    },
+    "_loop.py": {
+      "size": 1236,
+      "file_or_dir": "file"
+    },
+    "_null_file.py": {
+      "size": 1387,
+      "file_or_dir": "file"
+    },
+    "_palettes.py": {
+      "size": 7063,
+      "file_or_dir": "file"
+    },
+    "_pick.py": {
+      "size": 423,
+      "file_or_dir": "file"
+    },
+    "_ratio.py": {
+      "size": 5472,
+      "file_or_dir": "file"
+    },
+    "_spinners.py": {
+      "size": 19919,
+      "file_or_dir": "file"
+    },
+    "_stack.py": {
+      "size": 351,
+      "file_or_dir": "file"
+    },
+    "_timer.py": {
+      "size": 417,
+      "file_or_dir": "file"
+    },
+    "_win32_console.py": {
+      "size": 22820,
+      "file_or_dir": "file"
+    },
+    "_windows.py": {
+      "size": 1926,
+      "file_or_dir": "file"
+    },
+    "_windows_renderer.py": {
+      "size": 2783,
+      "file_or_dir": "file"
+    },
+    "_wrap.py": {
+      "size": 1840,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 6090,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 8478,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__pycache__": {
+    "abc.cpython-310.pyc": {
+      "size": 1310,
+      "file_or_dir": "file"
+    },
+    "align.cpython-310.pyc": {
+      "size": 7938,
+      "file_or_dir": "file"
+    },
+    "ansi.cpython-310.pyc": {
+      "size": 5976,
+      "file_or_dir": "file"
+    },
+    "bar.cpython-310.pyc": {
+      "size": 2979,
+      "file_or_dir": "file"
+    },
+    "box.cpython-310.pyc": {
+      "size": 8399,
+      "file_or_dir": "file"
+    },
+    "cells.cpython-310.pyc": {
+      "size": 4149,
+      "file_or_dir": "file"
+    },
+    "color.cpython-310.pyc": {
+      "size": 17716,
+      "file_or_dir": "file"
+    },
+    "color_triplet.cpython-310.pyc": {
+      "size": 1433,
+      "file_or_dir": "file"
+    },
+    "columns.cpython-310.pyc": {
+      "size": 6193,
+      "file_or_dir": "file"
+    },
+    "console.cpython-310.pyc": {
+      "size": 82788,
+      "file_or_dir": "file"
+    },
+    "constrain.cpython-310.pyc": {
+      "size": 1750,
+      "file_or_dir": "file"
+    },
+    "containers.cpython-310.pyc": {
+      "size": 6482,
+      "file_or_dir": "file"
+    },
+    "control.cpython-310.pyc": {
+      "size": 8155,
+      "file_or_dir": "file"
+    },
+    "default_styles.cpython-310.pyc": {
+      "size": 6239,
+      "file_or_dir": "file"
+    },
+    "diagnose.cpython-310.pyc": {
+      "size": 1217,
+      "file_or_dir": "file"
+    },
+    "emoji.cpython-310.pyc": {
+      "size": 3263,
+      "file_or_dir": "file"
+    },
+    "errors.cpython-310.pyc": {
+      "size": 1523,
+      "file_or_dir": "file"
+    },
+    "filesize.cpython-310.pyc": {
+      "size": 2613,
+      "file_or_dir": "file"
+    },
+    "file_proxy.cpython-310.pyc": {
+      "size": 2396,
+      "file_or_dir": "file"
+    },
+    "highlighter.cpython-310.pyc": {
+      "size": 8055,
+      "file_or_dir": "file"
+    },
+    "json.cpython-310.pyc": {
+      "size": 4727,
+      "file_or_dir": "file"
+    },
+    "jupyter.cpython-310.pyc": {
+      "size": 3995,
+      "file_or_dir": "file"
+    },
+    "layout.cpython-310.pyc": {
+      "size": 14643,
+      "file_or_dir": "file"
+    },
+    "live.cpython-310.pyc": {
+      "size": 11673,
+      "file_or_dir": "file"
+    },
+    "live_render.cpython-310.pyc": {
+      "size": 3398,
+      "file_or_dir": "file"
+    },
+    "logging.cpython-310.pyc": {
+      "size": 9904,
+      "file_or_dir": "file"
+    },
+    "markup.cpython-310.pyc": {
+      "size": 5937,
+      "file_or_dir": "file"
+    },
+    "measure.cpython-310.pyc": {
+      "size": 5072,
+      "file_or_dir": "file"
+    },
+    "padding.cpython-310.pyc": {
+      "size": 4478,
+      "file_or_dir": "file"
+    },
+    "pager.cpython-310.pyc": {
+      "size": 1472,
+      "file_or_dir": "file"
+    },
+    "palette.cpython-310.pyc": {
+      "size": 3704,
+      "file_or_dir": "file"
+    },
+    "panel.cpython-310.pyc": {
+      "size": 7424,
+      "file_or_dir": "file"
+    },
+    "pretty.cpython-310.pyc": {
+      "size": 27513,
+      "file_or_dir": "file"
+    },
+    "progress.cpython-310.pyc": {
+      "size": 54002,
+      "file_or_dir": "file"
+    },
+    "progress_bar.cpython-310.pyc": {
+      "size": 6907,
+      "file_or_dir": "file"
+    },
+    "prompt.cpython-310.pyc": {
+      "size": 11295,
+      "file_or_dir": "file"
+    },
+    "protocol.cpython-310.pyc": {
+      "size": 1348,
+      "file_or_dir": "file"
+    },
+    "region.cpython-310.pyc": {
+      "size": 523,
+      "file_or_dir": "file"
+    },
+    "repr.cpython-310.pyc": {
+      "size": 4092,
+      "file_or_dir": "file"
+    },
+    "rule.cpython-310.pyc": {
+      "size": 3939,
+      "file_or_dir": "file"
+    },
+    "scope.cpython-310.pyc": {
+      "size": 2985,
+      "file_or_dir": "file"
+    },
+    "screen.cpython-310.pyc": {
+      "size": 1875,
+      "file_or_dir": "file"
+    },
+    "segment.cpython-310.pyc": {
+      "size": 20779,
+      "file_or_dir": "file"
+    },
+    "spinner.cpython-310.pyc": {
+      "size": 4396,
+      "file_or_dir": "file"
+    },
+    "status.cpython-310.pyc": {
+      "size": 4589,
+      "file_or_dir": "file"
+    },
+    "style.cpython-310.pyc": {
+      "size": 21326,
+      "file_or_dir": "file"
+    },
+    "styled.cpython-310.pyc": {
+      "size": 1759,
+      "file_or_dir": "file"
+    },
+    "syntax.cpython-310.pyc": {
+      "size": 25728,
+      "file_or_dir": "file"
+    },
+    "table.cpython-310.pyc": {
+      "size": 29938,
+      "file_or_dir": "file"
+    },
+    "terminal_theme.cpython-310.pyc": {
+      "size": 3012,
+      "file_or_dir": "file"
+    },
+    "text.cpython-310.pyc": {
+      "size": 40100,
+      "file_or_dir": "file"
+    },
+    "theme.cpython-310.pyc": {
+      "size": 4834,
+      "file_or_dir": "file"
+    },
+    "themes.cpython-310.pyc": {
+      "size": 289,
+      "file_or_dir": "file"
+    },
+    "traceback.cpython-310.pyc": {
+      "size": 21705,
+      "file_or_dir": "file"
+    },
+    "tree.cpython-310.pyc": {
+      "size": 7330,
+      "file_or_dir": "file"
+    },
+    "_cell_widths.cpython-310.pyc": {
+      "size": 7810,
+      "file_or_dir": "file"
+    },
+    "_emoji_codes.cpython-310.pyc": {
+      "size": 360050,
+      "file_or_dir": "file"
+    },
+    "_emoji_replace.cpython-310.pyc": {
+      "size": 1190,
+      "file_or_dir": "file"
+    },
+    "_export_format.cpython-310.pyc": {
+      "size": 2293,
+      "file_or_dir": "file"
+    },
+    "_extension.cpython-310.pyc": {
+      "size": 491,
+      "file_or_dir": "file"
+    },
+    "_fileno.cpython-310.pyc": {
+      "size": 784,
+      "file_or_dir": "file"
+    },
+    "_inspect.cpython-310.pyc": {
+      "size": 8668,
+      "file_or_dir": "file"
+    },
+    "_log_render.cpython-310.pyc": {
+      "size": 2636,
+      "file_or_dir": "file"
+    },
+    "_loop.cpython-310.pyc": {
+      "size": 1288,
+      "file_or_dir": "file"
+    },
+    "_null_file.cpython-310.pyc": {
+      "size": 3235,
+      "file_or_dir": "file"
+    },
+    "_palettes.cpython-310.pyc": {
+      "size": 5093,
+      "file_or_dir": "file"
+    },
+    "_pick.cpython-310.pyc": {
+      "size": 636,
+      "file_or_dir": "file"
+    },
+    "_ratio.cpython-310.pyc": {
+      "size": 5153,
+      "file_or_dir": "file"
+    },
+    "_spinners.cpython-310.pyc": {
+      "size": 12267,
+      "file_or_dir": "file"
+    },
+    "_stack.cpython-310.pyc": {
+      "size": 834,
+      "file_or_dir": "file"
+    },
+    "_timer.cpython-310.pyc": {
+      "size": 683,
+      "file_or_dir": "file"
+    },
+    "_win32_console.cpython-310.pyc": {
+      "size": 19003,
+      "file_or_dir": "file"
+    },
+    "_windows.cpython-310.pyc": {
+      "size": 1785,
+      "file_or_dir": "file"
+    },
+    "_windows_renderer.cpython-310.pyc": {
+      "size": 2039,
+      "file_or_dir": "file"
+    },
+    "_wrap.cpython-310.pyc": {
+      "size": 1547,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 6109,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 7179,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity": {
+    "__pycache__": {
+      "size": 51959,
+      "file_or_dir": "directory"
+    },
+    "after.py": {
+      "size": 1682,
+      "file_or_dir": "file"
+    },
+    "before.py": {
+      "size": 1562,
+      "file_or_dir": "file"
+    },
+    "before_sleep.py": {
+      "size": 2372,
+      "file_or_dir": "file"
+    },
+    "nap.py": {
+      "size": 1383,
+      "file_or_dir": "file"
+    },
+    "retry.py": {
+      "size": 8746,
+      "file_or_dir": "file"
+    },
+    "stop.py": {
+      "size": 3086,
+      "file_or_dir": "file"
+    },
+    "tornadoweb.py": {
+      "size": 2142,
+      "file_or_dir": "file"
+    },
+    "wait.py": {
+      "size": 8024,
+      "file_or_dir": "file"
+    },
+    "_asyncio.py": {
+      "size": 3551,
+      "file_or_dir": "file"
+    },
+    "_utils.py": {
+      "size": 2179,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 20493,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__": {
+    "after.cpython-310.pyc": {
+      "size": 1275,
+      "file_or_dir": "file"
+    },
+    "before.cpython-310.pyc": {
+      "size": 1153,
+      "file_or_dir": "file"
+    },
+    "before_sleep.cpython-310.pyc": {
+      "size": 1583,
+      "file_or_dir": "file"
+    },
+    "nap.cpython-310.pyc": {
+      "size": 1195,
+      "file_or_dir": "file"
+    },
+    "retry.cpython-310.pyc": {
+      "size": 9767,
+      "file_or_dir": "file"
+    },
+    "stop.cpython-310.pyc": {
+      "size": 4321,
+      "file_or_dir": "file"
+    },
+    "tornadoweb.cpython-310.pyc": {
+      "size": 1760,
+      "file_or_dir": "file"
+    },
+    "wait.cpython-310.pyc": {
+      "size": 9282,
+      "file_or_dir": "file"
+    },
+    "_asyncio.cpython-310.pyc": {
+      "size": 2868,
+      "file_or_dir": "file"
+    },
+    "_utils.cpython-310.pyc": {
+      "size": 1501,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 17254,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli": {
+    "__pycache__": {
+      "size": 20634,
+      "file_or_dir": "directory"
+    },
+    "_parser.py": {
+      "size": 22633,
+      "file_or_dir": "file"
+    },
+    "_re.py": {
+      "size": 2943,
+      "file_or_dir": "file"
+    },
+    "_types.py": {
+      "size": 254,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 396,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__pycache__": {
+    "_parser.cpython-310.pyc": {
+      "size": 17065,
+      "file_or_dir": "file"
+    },
+    "_re.cpython-310.pyc": {
+      "size": 2897,
+      "file_or_dir": "file"
+    },
+    "_types.cpython-310.pyc": {
+      "size": 321,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 351,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3": {
+    "contrib": {
+      "size": 183436,
+      "file_or_dir": "directory"
+    },
+    "packages": {
+      "size": 65440,
+      "file_or_dir": "directory"
+    },
+    "util": {
+      "size": 171052,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 117940,
+      "file_or_dir": "directory"
+    },
+    "connection.py": {
+      "size": 20300,
+      "file_or_dir": "file"
+    },
+    "connectionpool.py": {
+      "size": 39128,
+      "file_or_dir": "file"
+    },
+    "exceptions.py": {
+      "size": 8217,
+      "file_or_dir": "file"
+    },
+    "fields.py": {
+      "size": 8579,
+      "file_or_dir": "file"
+    },
+    "filepost.py": {
+      "size": 2440,
+      "file_or_dir": "file"
+    },
+    "poolmanager.py": {
+      "size": 19786,
+      "file_or_dir": "file"
+    },
+    "request.py": {
+      "size": 5985,
+      "file_or_dir": "file"
+    },
+    "response.py": {
+      "size": 30641,
+      "file_or_dir": "file"
+    },
+    "_collections.py": {
+      "size": 10811,
+      "file_or_dir": "file"
+    },
+    "_version.py": {
+      "size": 64,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 3333,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib": {
+    "_securetransport": {
+      "size": 51569,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 56720,
+      "file_or_dir": "directory"
+    },
+    "appengine.py": {
+      "size": 11036,
+      "file_or_dir": "file"
+    },
+    "ntlmpool.py": {
+      "size": 4528,
+      "file_or_dir": "file"
+    },
+    "pyopenssl.py": {
+      "size": 17081,
+      "file_or_dir": "file"
+    },
+    "securetransport.py": {
+      "size": 34448,
+      "file_or_dir": "file"
+    },
+    "socks.py": {
+      "size": 7097,
+      "file_or_dir": "file"
+    },
+    "_appengine_environ.py": {
+      "size": 957,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport": {
+    "__pycache__": {
+      "size": 20015,
+      "file_or_dir": "directory"
+    },
+    "bindings.py": {
+      "size": 17632,
+      "file_or_dir": "file"
+    },
+    "low_level.py": {
+      "size": 13922,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport\\__pycache__": {
+    "bindings.cpython-310.pyc": {
+      "size": 10708,
+      "file_or_dir": "file"
+    },
+    "low_level.cpython-310.pyc": {
+      "size": 9095,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 212,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__": {
+    "appengine.cpython-310.pyc": {
+      "size": 8192,
+      "file_or_dir": "file"
+    },
+    "ntlmpool.cpython-310.pyc": {
+      "size": 3619,
+      "file_or_dir": "file"
+    },
+    "pyopenssl.cpython-310.pyc": {
+      "size": 15805,
+      "file_or_dir": "file"
+    },
+    "securetransport.cpython-310.pyc": {
+      "size": 21937,
+      "file_or_dir": "file"
+    },
+    "socks.cpython-310.pyc": {
+      "size": 5597,
+      "file_or_dir": "file"
+    },
+    "_appengine_environ.cpython-310.pyc": {
+      "size": 1375,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 195,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages": {
+    "backports": {
+      "size": 2929,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 27846,
+      "file_or_dir": "directory"
+    },
+    "six.py": {
+      "size": 34665,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports": {
+    "__pycache__": {
+      "size": 1512,
+      "file_or_dir": "directory"
+    },
+    "makefile.py": {
+      "size": 1417,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\__pycache__": {
+    "makefile.cpython-310.pyc": {
+      "size": 1306,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 206,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__": {
+    "six.cpython-310.pyc": {
+      "size": 27650,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 196,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util": {
+    "__pycache__": {
+      "size": 73686,
+      "file_or_dir": "directory"
+    },
+    "connection.py": {
+      "size": 4901,
+      "file_or_dir": "file"
+    },
+    "proxy.py": {
+      "size": 1605,
+      "file_or_dir": "file"
+    },
+    "queue.py": {
+      "size": 498,
+      "file_or_dir": "file"
+    },
+    "request.py": {
+      "size": 3997,
+      "file_or_dir": "file"
+    },
+    "response.py": {
+      "size": 3510,
+      "file_or_dir": "file"
+    },
+    "retry.py": {
+      "size": 22003,
+      "file_or_dir": "file"
+    },
+    "ssltransport.py": {
+      "size": 6895,
+      "file_or_dir": "file"
+    },
+    "ssl_.py": {
+      "size": 17177,
+      "file_or_dir": "file"
+    },
+    "ssl_match_hostname.py": {
+      "size": 5758,
+      "file_or_dir": "file"
+    },
+    "timeout.py": {
+      "size": 10168,
+      "file_or_dir": "file"
+    },
+    "url.py": {
+      "size": 14296,
+      "file_or_dir": "file"
+    },
+    "wait.py": {
+      "size": 5403,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 1155,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__": {
+    "connection.cpython-310.pyc": {
+      "size": 3433,
+      "file_or_dir": "file"
+    },
+    "proxy.cpython-310.pyc": {
+      "size": 1338,
+      "file_or_dir": "file"
+    },
+    "queue.cpython-310.pyc": {
+      "size": 1060,
+      "file_or_dir": "file"
+    },
+    "request.cpython-310.pyc": {
+      "size": 3367,
+      "file_or_dir": "file"
+    },
+    "response.cpython-310.pyc": {
+      "size": 2353,
+      "file_or_dir": "file"
+    },
+    "retry.cpython-310.pyc": {
+      "size": 16143,
+      "file_or_dir": "file"
+    },
+    "ssltransport.cpython-310.pyc": {
+      "size": 7395,
+      "file_or_dir": "file"
+    },
+    "ssl_.cpython-310.pyc": {
+      "size": 11305,
+      "file_or_dir": "file"
+    },
+    "ssl_match_hostname.cpython-310.pyc": {
+      "size": 3257,
+      "file_or_dir": "file"
+    },
+    "timeout.cpython-310.pyc": {
+      "size": 9132,
+      "file_or_dir": "file"
+    },
+    "url.cpython-310.pyc": {
+      "size": 10709,
+      "file_or_dir": "file"
+    },
+    "wait.cpython-310.pyc": {
+      "size": 3089,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 1105,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__pycache__": {
+    "connection.cpython-310.pyc": {
+      "size": 13697,
+      "file_or_dir": "file"
+    },
+    "connectionpool.cpython-310.pyc": {
+      "size": 25421,
+      "file_or_dir": "file"
+    },
+    "exceptions.cpython-310.pyc": {
+      "size": 10990,
+      "file_or_dir": "file"
+    },
+    "fields.cpython-310.pyc": {
+      "size": 8179,
+      "file_or_dir": "file"
+    },
+    "filepost.cpython-310.pyc": {
+      "size": 2746,
+      "file_or_dir": "file"
+    },
+    "poolmanager.cpython-310.pyc": {
+      "size": 15215,
+      "file_or_dir": "file"
+    },
+    "request.cpython-310.pyc": {
+      "size": 5622,
+      "file_or_dir": "file"
+    },
+    "response.cpython-310.pyc": {
+      "size": 22496,
+      "file_or_dir": "file"
+    },
+    "_collections.cpython-310.pyc": {
+      "size": 10859,
+      "file_or_dir": "file"
+    },
+    "_version.cpython-310.pyc": {
+      "size": 210,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 2505,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings": {
+    "__pycache__": {
+      "size": 24538,
+      "file_or_dir": "directory"
+    },
+    "labels.py": {
+      "size": 8979,
+      "file_or_dir": "file"
+    },
+    "mklabels.py": {
+      "size": 1305,
+      "file_or_dir": "file"
+    },
+    "tests.py": {
+      "size": 6563,
+      "file_or_dir": "file"
+    },
+    "x_user_defined.py": {
+      "size": 4307,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 10579,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\__pycache__": {
+    "labels.cpython-310.pyc": {
+      "size": 5232,
+      "file_or_dir": "file"
+    },
+    "mklabels.cpython-310.pyc": {
+      "size": 1937,
+      "file_or_dir": "file"
+    },
+    "tests.cpython-310.pyc": {
+      "size": 5039,
+      "file_or_dir": "file"
+    },
+    "x_user_defined.cpython-310.pyc": {
+      "size": 2588,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 9742,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\_vendor\\__pycache__": {
+    "six.cpython-310.pyc": {
+      "size": 27577,
+      "file_or_dir": "file"
+    },
+    "typing_extensions.cpython-310.pyc": {
+      "size": 67995,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 3123,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 625,
+      "file_or_dir": "file"
+    },
+    "__main__.cpython-310.pyc": {
+      "size": 589,
+      "file_or_dir": "file"
+    },
+    "__pip-runner__.cpython-310.pyc": {
+      "size": 1625,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pip-23.1.dist-info": {
+    "AUTHORS.txt": {
+      "size": 9953,
+      "file_or_dir": "file"
+    },
+    "entry_points.txt": {
+      "size": 125,
+      "file_or_dir": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "file_or_dir": "file"
+    },
+    "LICENSE.txt": {
+      "size": 1093,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 4096,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 77059,
+      "file_or_dir": "file"
+    },
+    "REQUESTED": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "top_level.txt": {
+      "size": 4,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources": {
+    "extern": {
+      "size": 5378,
+      "file_or_dir": "directory"
+    },
+    "_vendor": {
+      "size": 786183,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 101103,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 109315,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\extern": {
+    "__pycache__": {
+      "size": 2936,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 2442,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 2936,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor": {
+    "importlib_resources": {
+      "size": 29054,
+      "file_or_dir": "directory"
+    },
+    "jaraco": {
+      "size": 80497,
+      "file_or_dir": "directory"
+    },
+    "more_itertools": {
+      "size": 305573,
+      "file_or_dir": "directory"
+    },
+    "packaging": {
+      "size": 220593,
+      "file_or_dir": "directory"
+    },
+    "platformdirs": {
+      "size": 61774,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 189,
+      "file_or_dir": "directory"
+    },
+    "typing_extensions.py": {
+      "size": 80078,
+      "file_or_dir": "file"
+    },
+    "zipp.py": {
+      "size": 8425,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources": {
+    "abc.py": {
+      "size": 5140,
+      "file_or_dir": "file"
+    },
+    "readers.py": {
+      "size": 3581,
+      "file_or_dir": "file"
+    },
+    "simple.py": {
+      "size": 2576,
+      "file_or_dir": "file"
+    },
+    "_adapters.py": {
+      "size": 4504,
+      "file_or_dir": "file"
+    },
+    "_common.py": {
+      "size": 5457,
+      "file_or_dir": "file"
+    },
+    "_compat.py": {
+      "size": 2925,
+      "file_or_dir": "file"
+    },
+    "_itertools.py": {
+      "size": 884,
+      "file_or_dir": "file"
+    },
+    "_legacy.py": {
+      "size": 3481,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 506,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco": {
+    "text": {
+      "size": 35191,
+      "file_or_dir": "directory"
+    },
+    "__pycache__": {
+      "size": 24331,
+      "file_or_dir": "directory"
+    },
+    "context.py": {
+      "size": 7460,
+      "file_or_dir": "file"
+    },
+    "functools.py": {
+      "size": 13515,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text": {
+    "__pycache__": {
+      "size": 19665,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 15526,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 19665,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__": {
+    "context.cpython-310.pyc": {
+      "size": 8515,
+      "file_or_dir": "file"
+    },
+    "functools.cpython-310.pyc": {
+      "size": 15620,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 196,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools": {
+    "__pycache__": {
+      "size": 149106,
+      "file_or_dir": "directory"
+    },
+    "more.py": {
+      "size": 133344,
+      "file_or_dir": "file"
+    },
+    "recipes.py": {
+      "size": 22975,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 148,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__": {
+    "more.cpython-310.pyc": {
+      "size": 124175,
+      "file_or_dir": "file"
+    },
+    "recipes.cpython-310.pyc": {
+      "size": 24586,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 345,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging": {
+    "__pycache__": {
+      "size": 100325,
+      "file_or_dir": "directory"
+    },
+    "markers.py": {
+      "size": 8161,
+      "file_or_dir": "file"
+    },
+    "requirements.py": {
+      "size": 3264,
+      "file_or_dir": "file"
+    },
+    "specifiers.py": {
+      "size": 39046,
+      "file_or_dir": "file"
+    },
+    "tags.py": {
+      "size": 18065,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 4355,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 16295,
+      "file_or_dir": "file"
+    },
+    "_elffile.py": {
+      "size": 3266,
+      "file_or_dir": "file"
+    },
+    "_manylinux.py": {
+      "size": 8813,
+      "file_or_dir": "file"
+    },
+    "_musllinux.py": {
+      "size": 2524,
+      "file_or_dir": "file"
+    },
+    "_parser.py": {
+      "size": 9399,
+      "file_or_dir": "file"
+    },
+    "_structures.py": {
+      "size": 1431,
+      "file_or_dir": "file"
+    },
+    "_tokenizer.py": {
+      "size": 5148,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 501,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__": {
+    "markers.cpython-310.pyc": {
+      "size": 6890,
+      "file_or_dir": "file"
+    },
+    "requirements.cpython-310.pyc": {
+      "size": 2853,
+      "file_or_dir": "file"
+    },
+    "specifiers.cpython-310.pyc": {
+      "size": 30260,
+      "file_or_dir": "file"
+    },
+    "tags.cpython-310.pyc": {
+      "size": 13135,
+      "file_or_dir": "file"
+    },
+    "utils.cpython-310.pyc": {
+      "size": 3680,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 13945,
+      "file_or_dir": "file"
+    },
+    "_elffile.cpython-310.pyc": {
+      "size": 3321,
+      "file_or_dir": "file"
+    },
+    "_manylinux.cpython-310.pyc": {
+      "size": 5747,
+      "file_or_dir": "file"
+    },
+    "_musllinux.cpython-310.pyc": {
+      "size": 3207,
+      "file_or_dir": "file"
+    },
+    "_parser.cpython-310.pyc": {
+      "size": 8368,
+      "file_or_dir": "file"
+    },
+    "_structures.cpython-310.pyc": {
+      "size": 2711,
+      "file_or_dir": "file"
+    },
+    "_tokenizer.cpython-310.pyc": {
+      "size": 5674,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 534,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs": {
+    "__pycache__": {
+      "size": 22504,
+      "file_or_dir": "directory"
+    },
+    "android.py": {
+      "size": 4068,
+      "file_or_dir": "file"
+    },
+    "api.py": {
+      "size": 4910,
+      "file_or_dir": "file"
+    },
+    "macos.py": {
+      "size": 2655,
+      "file_or_dir": "file"
+    },
+    "unix.py": {
+      "size": 6911,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 160,
+      "file_or_dir": "file"
+    },
+    "windows.py": {
+      "size": 6596,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 12806,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 1164,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__pycache__": {
+    "api.cpython-310.pyc": {
+      "size": 5208,
+      "file_or_dir": "file"
+    },
+    "version.cpython-310.pyc": {
+      "size": 296,
+      "file_or_dir": "file"
+    },
+    "windows.cpython-310.pyc": {
+      "size": 6516,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 10484,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 189,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 101103,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\pycodestyle-2.10.0.dist-info": {
+    "entry_points.txt": {
+      "size": 50,
+      "file_or_dir": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "file_or_dir": "file"
+    },
+    "LICENSE": {
+      "size": 1254,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 31580,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 818,
+      "file_or_dir": "file"
+    },
+    "top_level.txt": {
+      "size": 12,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 110,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools": {
+    "command": {
+      "size": 269175,
+      "file_or_dir": "directory"
+    },
+    "config": {
+      "size": 375246,
+      "file_or_dir": "directory"
+    },
+    "extern": {
+      "size": 2527,
+      "file_or_dir": "directory"
+    },
+    "_distutils": {
+      "size": 607688,
+      "file_or_dir": "directory"
+    },
+    "_vendor": {
+      "size": 497984,
+      "file_or_dir": "directory"
+    },
+    "archive_util.py": {
+      "size": 7346,
+      "file_or_dir": "file"
+    },
+    "build_meta.py": {
+      "size": 19612,
+      "file_or_dir": "file"
+    },
+    "cli-32.exe": {
+      "size": 65536,
+      "file_or_dir": "file"
+    },
+    "cli-64.exe": {
+      "size": 74752,
+      "file_or_dir": "file"
+    },
+    "cli-arm64.exe": {
+      "size": 137216,
+      "file_or_dir": "file"
+    },
+    "cli.exe": {
+      "size": 65536,
+      "file_or_dir": "file"
+    },
+    "depends.py": {
+      "size": 5499,
+      "file_or_dir": "file"
+    },
+    "dep_util.py": {
+      "size": 949,
+      "file_or_dir": "file"
+    },
+    "discovery.py": {
+      "size": 20833,
+      "file_or_dir": "file"
+    },
+    "dist.py": {
+      "size": 45710,
+      "file_or_dir": "file"
+    },
+    "errors.py": {
+      "size": 2464,
+      "file_or_dir": "file"
+    },
+    "extension.py": {
+      "size": 5591,
+      "file_or_dir": "file"
+    },
+    "glob.py": {
+      "size": 4873,
+      "file_or_dir": "file"
+    },
+    "gui-32.exe": {
+      "size": 65536,
+      "file_or_dir": "file"
+    },
+    "gui-64.exe": {
+      "size": 75264,
+      "file_or_dir": "file"
+    },
+    "gui-arm64.exe": {
+      "size": 137728,
+      "file_or_dir": "file"
+    },
+    "gui.exe": {
+      "size": 65536,
+      "file_or_dir": "file"
+    },
+    "installer.py": {
+      "size": 5063,
+      "file_or_dir": "file"
+    },
+    "launch.py": {
+      "size": 812,
+      "file_or_dir": "file"
+    },
+    "logging.py": {
+      "size": 1232,
+      "file_or_dir": "file"
+    },
+    "monkey.py": {
+      "size": 4697,
+      "file_or_dir": "file"
+    },
+    "msvc.py": {
+      "size": 47115,
+      "file_or_dir": "file"
+    },
+    "namespaces.py": {
+      "size": 3093,
+      "file_or_dir": "file"
+    },
+    "package_index.py": {
+      "size": 39682,
+      "file_or_dir": "file"
+    },
+    "py34compat.py": {
+      "size": 245,
+      "file_or_dir": "file"
+    },
+    "sandbox.py": {
+      "size": 14348,
+      "file_or_dir": "file"
+    },
+    "script (dev).tmpl": {
+      "size": 218,
+      "file_or_dir": "file"
+    },
+    "script.tmpl": {
+      "size": 138,
+      "file_or_dir": "file"
+    },
+    "unicode_utils.py": {
+      "size": 941,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 134,
+      "file_or_dir": "file"
+    },
+    "wheel.py": {
+      "size": 8400,
+      "file_or_dir": "file"
+    },
+    "windows_support.py": {
+      "size": 718,
+      "file_or_dir": "file"
+    },
+    "_deprecation_warning.py": {
+      "size": 218,
+      "file_or_dir": "file"
+    },
+    "_entry_points.py": {
+      "size": 2282,
+      "file_or_dir": "file"
+    },
+    "_imp.py": {
+      "size": 2392,
+      "file_or_dir": "file"
+    },
+    "_importlib.py": {
+      "size": 1311,
+      "file_or_dir": "file"
+    },
+    "_itertools.py": {
+      "size": 675,
+      "file_or_dir": "file"
+    },
+    "_normalization.py": {
+      "size": 3722,
+      "file_or_dir": "file"
+    },
+    "_path.py": {
+      "size": 1056,
+      "file_or_dir": "file"
+    },
+    "_reqs.py": {
+      "size": 882,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 9170,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\command": {
+    "alias.py": {
+      "size": 2381,
+      "file_or_dir": "file"
+    },
+    "bdist_egg.py": {
+      "size": 16596,
+      "file_or_dir": "file"
+    },
+    "bdist_rpm.py": {
+      "size": 1182,
+      "file_or_dir": "file"
+    },
+    "build.py": {
+      "size": 6589,
+      "file_or_dir": "file"
+    },
+    "build_clib.py": {
+      "size": 4423,
+      "file_or_dir": "file"
+    },
+    "build_ext.py": {
+      "size": 15821,
+      "file_or_dir": "file"
+    },
+    "build_py.py": {
+      "size": 14115,
+      "file_or_dir": "file"
+    },
+    "develop.py": {
+      "size": 6963,
+      "file_or_dir": "file"
+    },
+    "dist_info.py": {
+      "size": 4074,
+      "file_or_dir": "file"
+    },
+    "easy_install.py": {
+      "size": 85662,
+      "file_or_dir": "file"
+    },
+    "editable_wheel.py": {
+      "size": 31903,
+      "file_or_dir": "file"
+    },
+    "egg_info.py": {
+      "size": 28176,
+      "file_or_dir": "file"
+    },
+    "install.py": {
+      "size": 5163,
+      "file_or_dir": "file"
+    },
+    "install_egg_info.py": {
+      "size": 2123,
+      "file_or_dir": "file"
+    },
+    "install_lib.py": {
+      "size": 3875,
+      "file_or_dir": "file"
+    },
+    "install_scripts.py": {
+      "size": 2714,
+      "file_or_dir": "file"
+    },
+    "launcher manifest.xml": {
+      "size": 628,
+      "file_or_dir": "file"
+    },
+    "py36compat.py": {
+      "size": 4946,
+      "file_or_dir": "file"
+    },
+    "register.py": {
+      "size": 468,
+      "file_or_dir": "file"
+    },
+    "rotate.py": {
+      "size": 2128,
+      "file_or_dir": "file"
+    },
+    "saveopts.py": {
+      "size": 658,
+      "file_or_dir": "file"
+    },
+    "sdist.py": {
+      "size": 7071,
+      "file_or_dir": "file"
+    },
+    "setopt.py": {
+      "size": 5086,
+      "file_or_dir": "file"
+    },
+    "test.py": {
+      "size": 8102,
+      "file_or_dir": "file"
+    },
+    "upload.py": {
+      "size": 462,
+      "file_or_dir": "file"
+    },
+    "upload_docs.py": {
+      "size": 7470,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 396,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\config": {
+    "_validate_pyproject": {
+      "size": 299198,
+      "file_or_dir": "directory"
+    },
+    "expand.py": {
+      "size": 16319,
+      "file_or_dir": "file"
+    },
+    "pyprojecttoml.py": {
+      "size": 19598,
+      "file_or_dir": "file"
+    },
+    "setupcfg.py": {
+      "size": 25431,
+      "file_or_dir": "file"
+    },
+    "_apply_pyprojecttoml.py": {
+      "size": 13579,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 1121,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject": {
+    "error_reporting.py": {
+      "size": 11266,
+      "file_or_dir": "file"
+    },
+    "extra_validations.py": {
+      "size": 1153,
+      "file_or_dir": "file"
+    },
+    "fastjsonschema_exceptions.py": {
+      "size": 1612,
+      "file_or_dir": "file"
+    },
+    "fastjsonschema_validations.py": {
+      "size": 274968,
+      "file_or_dir": "file"
+    },
+    "formats.py": {
+      "size": 9161,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 1038,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\extern": {
+    "__init__.py": {
+      "size": 2527,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_distutils": {
+    "command": {
+      "size": 208021,
+      "file_or_dir": "directory"
+    },
+    "archive_util.py": {
+      "size": 8572,
+      "file_or_dir": "file"
+    },
+    "bcppcompiler.py": {
+      "size": 14721,
+      "file_or_dir": "file"
+    },
+    "ccompiler.py": {
+      "size": 48643,
+      "file_or_dir": "file"
+    },
+    "cmd.py": {
+      "size": 17861,
+      "file_or_dir": "file"
+    },
+    "config.py": {
+      "size": 4911,
+      "file_or_dir": "file"
+    },
+    "core.py": {
+      "size": 9397,
+      "file_or_dir": "file"
+    },
+    "cygwinccompiler.py": {
+      "size": 11924,
+      "file_or_dir": "file"
+    },
+    "debug.py": {
+      "size": 139,
+      "file_or_dir": "file"
+    },
+    "dep_util.py": {
+      "size": 3414,
+      "file_or_dir": "file"
+    },
+    "dir_util.py": {
+      "size": 8072,
+      "file_or_dir": "file"
+    },
+    "dist.py": {
+      "size": 50174,
+      "file_or_dir": "file"
+    },
+    "errors.py": {
+      "size": 3589,
+      "file_or_dir": "file"
+    },
+    "extension.py": {
+      "size": 10270,
+      "file_or_dir": "file"
+    },
+    "fancy_getopt.py": {
+      "size": 17899,
+      "file_or_dir": "file"
+    },
+    "filelist.py": {
+      "size": 13715,
+      "file_or_dir": "file"
+    },
+    "file_util.py": {
+      "size": 8212,
+      "file_or_dir": "file"
+    },
+    "log.py": {
+      "size": 1201,
+      "file_or_dir": "file"
+    },
+    "msvc9compiler.py": {
+      "size": 30188,
+      "file_or_dir": "file"
+    },
+    "msvccompiler.py": {
+      "size": 23577,
+      "file_or_dir": "file"
+    },
+    "py38compat.py": {
+      "size": 217,
+      "file_or_dir": "file"
+    },
+    "py39compat.py": {
+      "size": 639,
+      "file_or_dir": "file"
+    },
+    "spawn.py": {
+      "size": 3495,
+      "file_or_dir": "file"
+    },
+    "sysconfig.py": {
+      "size": 18928,
+      "file_or_dir": "file"
+    },
+    "text_file.py": {
+      "size": 12085,
+      "file_or_dir": "file"
+    },
+    "unixccompiler.py": {
+      "size": 15601,
+      "file_or_dir": "file"
+    },
+    "util.py": {
+      "size": 18099,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 12951,
+      "file_or_dir": "file"
+    },
+    "versionpredicate.py": {
+      "size": 5205,
+      "file_or_dir": "file"
+    },
+    "_collections.py": {
+      "size": 5300,
+      "file_or_dir": "file"
+    },
+    "_functools.py": {
+      "size": 411,
+      "file_or_dir": "file"
+    },
+    "_log.py": {
+      "size": 43,
+      "file_or_dir": "file"
+    },
+    "_macos_compat.py": {
+      "size": 239,
+      "file_or_dir": "file"
+    },
+    "_msvccompiler.py": {
+      "size": 19616,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 359,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command": {
+    "bdist.py": {
+      "size": 5408,
+      "file_or_dir": "file"
+    },
+    "bdist_dumb.py": {
+      "size": 4665,
+      "file_or_dir": "file"
+    },
+    "bdist_rpm.py": {
+      "size": 22013,
+      "file_or_dir": "file"
+    },
+    "build.py": {
+      "size": 5584,
+      "file_or_dir": "file"
+    },
+    "build_clib.py": {
+      "size": 7684,
+      "file_or_dir": "file"
+    },
+    "build_ext.py": {
+      "size": 31503,
+      "file_or_dir": "file"
+    },
+    "build_py.py": {
+      "size": 16537,
+      "file_or_dir": "file"
+    },
+    "build_scripts.py": {
+      "size": 5604,
+      "file_or_dir": "file"
+    },
+    "check.py": {
+      "size": 4872,
+      "file_or_dir": "file"
+    },
+    "clean.py": {
+      "size": 2594,
+      "file_or_dir": "file"
+    },
+    "config.py": {
+      "size": 13077,
+      "file_or_dir": "file"
+    },
+    "install.py": {
+      "size": 30153,
+      "file_or_dir": "file"
+    },
+    "install_data.py": {
+      "size": 2762,
+      "file_or_dir": "file"
+    },
+    "install_egg_info.py": {
+      "size": 2788,
+      "file_or_dir": "file"
+    },
+    "install_headers.py": {
+      "size": 1180,
+      "file_or_dir": "file"
+    },
+    "install_lib.py": {
+      "size": 8409,
+      "file_or_dir": "file"
+    },
+    "install_scripts.py": {
+      "size": 1932,
+      "file_or_dir": "file"
+    },
+    "py37compat.py": {
+      "size": 672,
+      "file_or_dir": "file"
+    },
+    "register.py": {
+      "size": 11817,
+      "file_or_dir": "file"
+    },
+    "sdist.py": {
+      "size": 19232,
+      "file_or_dir": "file"
+    },
+    "upload.py": {
+      "size": 7491,
+      "file_or_dir": "file"
+    },
+    "_framework_compat.py": {
+      "size": 1614,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 430,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor": {
+    "importlib_metadata": {
+      "size": 40946,
+      "file_or_dir": "directory"
+    },
+    "importlib_resources": {
+      "size": 29054,
+      "file_or_dir": "directory"
+    },
+    "jaraco": {
+      "size": 36489,
+      "file_or_dir": "directory"
+    },
+    "more_itertools": {
+      "size": 134297,
+      "file_or_dir": "directory"
+    },
+    "packaging": {
+      "size": 120268,
+      "file_or_dir": "directory"
+    },
+    "tomli": {
+      "size": 26226,
+      "file_or_dir": "directory"
+    },
+    "ordered_set.py": {
+      "size": 15130,
+      "file_or_dir": "file"
+    },
+    "typing_extensions.py": {
+      "size": 87149,
+      "file_or_dir": "file"
+    },
+    "zipp.py": {
+      "size": 8425,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata": {
+    "_adapters.py": {
+      "size": 2454,
+      "file_or_dir": "file"
+    },
+    "_collections.py": {
+      "size": 743,
+      "file_or_dir": "file"
+    },
+    "_compat.py": {
+      "size": 1859,
+      "file_or_dir": "file"
+    },
+    "_functools.py": {
+      "size": 2895,
+      "file_or_dir": "file"
+    },
+    "_itertools.py": {
+      "size": 2068,
+      "file_or_dir": "file"
+    },
+    "_meta.py": {
+      "size": 1165,
+      "file_or_dir": "file"
+    },
+    "_py39compat.py": {
+      "size": 1098,
+      "file_or_dir": "file"
+    },
+    "_text.py": {
+      "size": 2166,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 26498,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources": {
+    "abc.py": {
+      "size": 5140,
+      "file_or_dir": "file"
+    },
+    "readers.py": {
+      "size": 3581,
+      "file_or_dir": "file"
+    },
+    "simple.py": {
+      "size": 2576,
+      "file_or_dir": "file"
+    },
+    "_adapters.py": {
+      "size": 4504,
+      "file_or_dir": "file"
+    },
+    "_common.py": {
+      "size": 5457,
+      "file_or_dir": "file"
+    },
+    "_compat.py": {
+      "size": 2925,
+      "file_or_dir": "file"
+    },
+    "_itertools.py": {
+      "size": 884,
+      "file_or_dir": "file"
+    },
+    "_legacy.py": {
+      "size": 3481,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 506,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco": {
+    "text": {
+      "size": 15517,
+      "file_or_dir": "directory"
+    },
+    "context.py": {
+      "size": 7460,
+      "file_or_dir": "file"
+    },
+    "functools.py": {
+      "size": 13512,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text": {
+    "__init__.py": {
+      "size": 15517,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools": {
+    "more.py": {
+      "size": 117959,
+      "file_or_dir": "file"
+    },
+    "recipes.py": {
+      "size": 16256,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 82,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging": {
+    "markers.py": {
+      "size": 8161,
+      "file_or_dir": "file"
+    },
+    "requirements.py": {
+      "size": 3264,
+      "file_or_dir": "file"
+    },
+    "specifiers.py": {
+      "size": 39046,
+      "file_or_dir": "file"
+    },
+    "tags.py": {
+      "size": 18065,
+      "file_or_dir": "file"
+    },
+    "utils.py": {
+      "size": 4355,
+      "file_or_dir": "file"
+    },
+    "version.py": {
+      "size": 16295,
+      "file_or_dir": "file"
+    },
+    "_elffile.py": {
+      "size": 3266,
+      "file_or_dir": "file"
+    },
+    "_manylinux.py": {
+      "size": 8813,
+      "file_or_dir": "file"
+    },
+    "_musllinux.py": {
+      "size": 2524,
+      "file_or_dir": "file"
+    },
+    "_parser.py": {
+      "size": 9399,
+      "file_or_dir": "file"
+    },
+    "_structures.py": {
+      "size": 1431,
+      "file_or_dir": "file"
+    },
+    "_tokenizer.py": {
+      "size": 5148,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 501,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli": {
+    "_parser.py": {
+      "size": 22633,
+      "file_or_dir": "file"
+    },
+    "_re.py": {
+      "size": 2943,
+      "file_or_dir": "file"
+    },
+    "_types.py": {
+      "size": 254,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 396,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\setuptools-67.5.1.dist-info": {
+    "entry_points.txt": {
+      "size": 2740,
+      "file_or_dir": "file"
+    },
+    "INSTALLER": {
+      "size": 5,
+      "file_or_dir": "file"
+    },
+    "LICENSE": {
+      "size": 1050,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 6213,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 34454,
+      "file_or_dir": "file"
+    },
+    "top_level.txt": {
+      "size": 41,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\tomli": {
+    "__pycache__": {
+      "size": 20586,
+      "file_or_dir": "directory"
+    },
+    "py.typed": {
+      "size": 26,
+      "file_or_dir": "file"
+    },
+    "_parser.py": {
+      "size": 22633,
+      "file_or_dir": "file"
+    },
+    "_re.py": {
+      "size": 2943,
+      "file_or_dir": "file"
+    },
+    "_types.py": {
+      "size": 254,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 396,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\tomli\\__pycache__": {
+    "_parser.cpython-310.pyc": {
+      "size": 17053,
+      "file_or_dir": "file"
+    },
+    "_re.cpython-310.pyc": {
+      "size": 2885,
+      "file_or_dir": "file"
+    },
+    "_types.cpython-310.pyc": {
+      "size": 309,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 339,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\tomli-2.0.1.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "file_or_dir": "file"
+    },
+    "LICENSE": {
+      "size": 1072,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 8875,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 913,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 81,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\wheel": {
+    "cli": {
+      "size": 15853,
+      "file_or_dir": "directory"
+    },
+    "vendored": {
+      "size": 31475,
+      "file_or_dir": "directory"
+    },
+    "bdist_wheel.py": {
+      "size": 19293,
+      "file_or_dir": "file"
+    },
+    "macosx_libfile.py": {
+      "size": 16145,
+      "file_or_dir": "file"
+    },
+    "metadata.py": {
+      "size": 3727,
+      "file_or_dir": "file"
+    },
+    "util.py": {
+      "size": 621,
+      "file_or_dir": "file"
+    },
+    "wheelfile.py": {
+      "size": 7536,
+      "file_or_dir": "file"
+    },
+    "_setuptools_logging.py": {
+      "size": 746,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 59,
+      "file_or_dir": "file"
+    },
+    "__main__.py": {
+      "size": 455,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\wheel\\cli": {
+    "convert.py": {
+      "size": 9427,
+      "file_or_dir": "file"
+    },
+    "pack.py": {
+      "size": 3383,
+      "file_or_dir": "file"
+    },
+    "unpack.py": {
+      "size": 659,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 2384,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\wheel\\vendored": {
+    "packaging": {
+      "size": 31475,
+      "file_or_dir": "directory"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging": {
+    "tags.py": {
+      "size": 15612,
+      "file_or_dir": "file"
+    },
+    "_manylinux.py": {
+      "size": 11489,
+      "file_or_dir": "file"
+    },
+    "_musllinux.py": {
+      "size": 4374,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info": {
+    "entry_points.txt": {
+      "size": 107,
+      "file_or_dir": "file"
+    },
+    "INSTALLER": {
+      "size": 5,
+      "file_or_dir": "file"
+    },
+    "LICENSE.txt": {
+      "size": 1107,
+      "file_or_dir": "file"
+    },
+    "METADATA": {
+      "size": 2110,
+      "file_or_dir": "file"
+    },
+    "RECORD": {
+      "size": 2835,
+      "file_or_dir": "file"
+    },
+    "top_level.txt": {
+      "size": 6,
+      "file_or_dir": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\_distutils_hack": {
+    "__pycache__": {
+      "size": 7581,
+      "file_or_dir": "directory"
+    },
+    "override.py": {
+      "size": 44,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 6128,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__": {
+    "__init__.cpython-310.pyc": {
+      "size": 7581,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Lib\\site-packages\\__pycache__": {
+    "autopep8.cpython-310.pyc": {
+      "size": 100405,
+      "file_or_dir": "file"
+    },
+    "pycodestyle.cpython-310.pyc": {
+      "size": 70565,
+      "file_or_dir": "file"
+    },
+    "_virtualenv.cpython-310.pyc": {
+      "size": 4047,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\1\\Desktop\\PythonSpecializatoin\\venv\\Scripts": {
+    "activate": {
+      "size": 2167,
+      "file_or_dir": "file"
+    },
+    "activate.bat": {
+      "size": 1020,
+      "file_or_dir": "file"
+    },
+    "activate.fish": {
+      "size": 3044,
+      "file_or_dir": "file"
+    },
+    "activate.nu": {
+      "size": 2607,
+      "file_or_dir": "file"
+    },
+    "Activate.ps1": {
+      "size": 1758,
+      "file_or_dir": "file"
+    },
+    "activate_this.py": {
+      "size": 1169,
+      "file_or_dir": "file"
+    },
+    "autopep8.exe": {
+      "size": 108408,
+      "file_or_dir": "file"
+    },
+    "deactivate.bat": {
+      "size": 511,
+      "file_or_dir": "file"
+    },
+    "deactivate.nu": {
+      "size": 682,
+      "file_or_dir": "file"
+    },
+    "pip.exe": {
+      "size": 108422,
+      "file_or_dir": "file"
+    },
+    "pip3.10.exe": {
+      "size": 108422,
+      "file_or_dir": "file"
+    },
+    "pip3.exe": {
+      "size": 108422,
+      "file_or_dir": "file"
+    },
+    "pycodestyle.exe": {
+      "size": 108413,
+      "file_or_dir": "file"
+    },
+    "pydoc.bat": {
+      "size": 24,
+      "file_or_dir": "file"
+    },
+    "python.exe": {
+      "size": 268568,
+      "file_or_dir": "file"
+    },
+    "pythonw.exe": {
+      "size": 257304,
+      "file_or_dir": "file"
+    },
+    "wheel-3.10.exe": {
+      "size": 108409,
+      "file_or_dir": "file"
+    },
+    "wheel.exe": {
+      "size": 108409,
+      "file_or_dir": "file"
+    },
+    "wheel3.10.exe": {
+      "size": 108409,
+      "file_or_dir": "file"
+    },
+    "wheel3.exe": {
+      "size": 108409,
+      "file_or_dir": "file"
+    }
+  }
+}

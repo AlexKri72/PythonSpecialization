@@ -2,7 +2,7 @@
 # Разбейте её на отдельные операции — функции.
 # Дополнительно сохраняйте все операции поступления и снятия средств в список.
 
-sum = 0
+summa = 0
 percentage_for_withdrawal = 0.015  # 1.5 % за любую операцию
 multiplicity_of_the_operation = 50  # у.е. сумма операции должна быть кратна этой
 percentage_per_operation = 0.03  # 3 % - за каждую третью операцию
@@ -34,7 +34,7 @@ def input_sum():
 def Operation(operation_type):
     '''модуль проведения операции'''
 
-    global sum
+    global summa
     global count
     global safe_operation
 
@@ -74,7 +74,8 @@ def Operation(operation_type):
 
 while True:
     print('-' * 100)
-    customer_choice = input(f"На счете сейчас {sum} у.е.\n1 - пополнить\n2 - снять\n3 - выйти\nВыберите тип операции: ")
+    customer_choice = input(
+        f"На счете сейчас {summa} у.е.\n1 - пополнить\n2 - снять\n3 - выйти\nВыберите тип операции: ")
     if customer_choice == '3':
         break
     elif customer_choice == '2' or customer_choice == '1':

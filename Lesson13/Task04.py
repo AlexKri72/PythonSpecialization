@@ -4,7 +4,7 @@
 # Отдельно напишите функцию, которая считывает информацию из JSON файла и формирует множество пользователей.
 
 class User:
-    def __init__(self, name, id, level):
+    def __init__(self, name, uid, level=0):
         self.name = name
-        self.id = id
+        self.uid = uid
         self.level = level

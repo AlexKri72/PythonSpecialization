@@ -7,7 +7,7 @@
 def get_dict_data(my_dict: dict, key: str, value=None):
     try:
         return my_dict[key]
-    except:
+    except KeyError:
         return value
 
 

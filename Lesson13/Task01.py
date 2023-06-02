@@ -6,14 +6,13 @@ def get_data():
         try:
             a = input('Введите целое или вещественное число: ')
             a = int(a)
-            break
+            return a
         except:
             try:
                 a = float(a)
-                break
+                return a
             except ValueError as e:
                 print(f'Ошибка ввода данных {e}')
-    return a
 
 
 if __name__ == '__main__':
